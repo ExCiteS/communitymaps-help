@@ -2,7 +2,7 @@
 
 <html lang="{{ layout.language }}">
     <head>
-        <title>{{ page.title }} | {{ layout.title }}</title>
+        <title>{{ page.title }} | {% if layout.title == nil %}Community Maps Help{% else %}{{ layout.title }}{% endif %}</title>
 
         <meta charset="utf-8">
         <meta http-equiv="cleartype" content="on" />
@@ -12,7 +12,13 @@
     <body>
         <header class="jumbotron">
             <div class="container">
-                <h2 class="text-muted">{{ layout.title }}</h2>
+                <h2 class="text-muted">
+                    {% if layout.title == nil %}
+                    Community Maps Help
+                    {% else %}
+                    {{ layout.title }}
+                    {% endif %}
+                </h2>
 
                 <div class="page-header">
                     <h1>{{ page.title }}</h1>
@@ -20,7 +26,7 @@
                 </div>
 
                 {% assign file = page.url | split: '/' | last %}
-                {% if file != 'index.html' %}
+                {% if file != 'index.html' and file != '404.html' %}
                 <a href="/{{ layout.language }}/" class="lead" style="text-decoration: none !important">
                     <span class="glyphicon glyphicon-arrow-left"></span>
                     <span>Home page</span>
