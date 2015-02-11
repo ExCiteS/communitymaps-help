@@ -1,0 +1,13 @@
+---
+layout: english
+title: "Learn and improve"
+subtitle: "Mapping with our participatory mapping platform has never been so easy."
+---
+
+## Contributions
+
+> * [Overview of contributions](/en/overview-of-contributions.html)
+> * [Access contributions](/en/access-contributions.html)
+> * [Add new contribution](/en/add-new-contribution.html)
+> * [Upload media files](/en/upload-media-files.html)
+> * [Add a comment](/en/add-a-comment.html)
