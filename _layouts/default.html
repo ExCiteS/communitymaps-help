@@ -22,7 +22,10 @@
 
                 <div class="page-header">
                     <h1>{{ page.title }}</h1>
-                    <p>{{ page.subtitle }}</p>
+
+                    <div class="row">
+                        <p class="col-md-10 col-lg-8">{{ page.subtitle }}</p>
+                    </div>
                 </div>
 
                 {% assign file = page.url | split: '/' | last %}
