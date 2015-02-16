@@ -1,7 +1,7 @@
 ---
 layout: english
 title: "Learn and improve"
-subtitle: "Mapping with our participatory mapping platform has never been so easy."
+subtitle: "Participatory mapping with our platform has never been so easy."
 ---
 
 ## Contributions
