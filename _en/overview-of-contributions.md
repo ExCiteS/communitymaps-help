@@ -48,6 +48,6 @@ Drawing an area is very similar to line. The only difference is that the last po
 
 ---
 
-## What's next?
+## What’s next?
 
-> **Let’s learn** [**how to access existing contributions**](/en/access-contributions.html)
+> **&#8627; Let’s learn** [**how to access existing contributions**](/en/access-contributions.html)
