@@ -11,3 +11,7 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 > * [Add new contribution](/en/add-new-contribution.html)
 > * [Upload media files](/en/upload-media-files.html)
 > * [Add a comment](/en/add-a-comment.html)
+
+## Other assistance
+
+If you can’t find help here, please don’t hesitate to contact us at [help@communitymaps.org.uk](mailto:help@communitymaps.org.uk).
