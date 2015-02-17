@@ -14,4 +14,4 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 
 ## Other assistance
 
-If you can’t find help here, please don’t hesitate to contact us at [help@communitymaps.org.uk](mailto:help@communitymaps.org.uk).
+If you require any additional information on how to use Community Maps participatory mapping platform, please don’t hesitate to contact us at [help@communitymaps.org.uk](mailto:help@communitymaps.org.uk).
