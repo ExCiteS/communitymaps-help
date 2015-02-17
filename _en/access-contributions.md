@@ -1,7 +1,7 @@
 ---
 layout: english
 title: "Access contributions"
-subtitle: "Contributions can be accessed in various different ways: clicking them on a map, choosing one from the list, searching for specific contributions."
+subtitle: "Contributions can be accessed in various different ways: clicking them on the map, choosing one from the list, searching for specific contributions."
 ---
 
 ## Feeling lost?
@@ -10,25 +10,25 @@ subtitle: "Contributions can be accessed in various different ways: clicking the
 
 ---
 
-## Use map
+## Use the map
 
-When the project is loaded, contributions are displayed on a map. We already know that they can be visible either as the shape of [a point](/en/overview-of-contributions.html#points), [a line](/en/overview-of-contributions.html#lines), or [an areas](/en/overview-of-contributions.html#areas). Every shape is a hyperlink to that contribution.
+When the project is loaded, contributions are displayed on the map. We already know that they can be visible either as the shape of [a point](/en/overview-of-contributions.html#points), [a line](/en/overview-of-contributions.html#lines), or [an area](/en/overview-of-contributions.html#areas). Every shape is a hyperlink to that contribution.
 
-Active contribution is highlighted on a map: if it’s a point, it has a hover around it, otherwise the colour of contribution changes to the bright yellow.
+Active contribution is highlighted on the map: if it’s a point, it has a hover around it, otherwise the colour of contribution changes to the bright yellow.
 
-![Highlighted contribution on a map](/images/en/highlighted-point.png){: .img-responsive .center-block }
+![Highlighted contribution on the map](/images/en/highlighted-point.png){: .img-responsive .center-block }
 
-Clicking on a highlighted contribution centres the view. Clicking  anywhere else on a map closes the active contribution and returns to the project. From here, other ways of accessing contributions can be explored.
+Clicking on a highlighted contribution centres the view. Clicking  anywhere else on the map closes the active contribution and returns to the project. From here, other ways of accessing contributions can be explored.
 
 ---
 
 ## Apply filters
 
-We already know that every contribution belongs to a category, and every category usually has a different icon and colour to separate contributions visually on a map. This is visible on the list of categories.
+We already know that every contribution belongs to a category, and every category usually has a different icon and colour to separate contributions visually on the map. This is visible on the list of categories.
 
 ![A list of categories](/images/en/categories-list.png){: .img-responsive .center-block }
 
-Every category can be checked or unchecked. That’s how contributions on a map are toggled - this is called *filtering by categories*.
+Every category can be checked or unchecked. That’s how contributions on the map are toggled - this is called *filtering by categories*.
 
 But filters can do even more magic. With the same technique of checking and unchecking *statuses*, it is possible to visualise only active, for example, or only contributions which are in review, also switching between personal and all contributions of a project.
 
@@ -45,9 +45,9 @@ For management of contributions, we are using four statuses:
 
 ## Use list of contributions and search
 
-Contributions currently visualised on a map are listed on a list of contributions. They have the clickable display fields, also category, author and when the contribution was created is showed under each contribution.
+Contributions currently visualised on the map are listed on a list of contributions. They have the clickable display fields, also category, author and when the contribution was created is showed under each contribution.
 
-When searching for specific contributions, the found term is highlighted, and only contributions that match the search criteria are displayed on a map.
+When searching for specific contributions, the found term is highlighted, and only contributions that match the search criteria are displayed on the map.
 
 ![Searching for specific contributions](/images/en/search-for-contributions.png){: .img-responsive .center-block }
 
