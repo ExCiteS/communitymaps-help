@@ -16,7 +16,7 @@ Each contribution has a comments section where everyone can discuss. Comments ar
 
 * ***Green*** - your personal comments.
 * ***Blue*** - parent comment of a hierarchy (unless the comment is yours).
-* ***Yellow*** - answers to comments.
+* ***Yellow*** - replies to comments.
 
 ![A list of comments for contribution](/images/en/list-of-comments.png){: .img-responsive .center-block }
 
