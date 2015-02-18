@@ -20,13 +20,13 @@ If project’s settings allow it, every person accessing that project can be a c
 
 ### Step 1: Drawing a shape
 
-The first step when adding a new contribution is to draw the shape of it on the map: it can either be [a point](/en/overview-of-contributions.html#points), [a line](/en/overview-of-contributions.html#lines), or [an area](/en/overview-of-contributions.html#areas) - whether is best representing current information. Only one shape can be drawn for each contribution.
+The first step when adding a new contribution is to draw the shape of it on the map: it can either be [a point](/en/overview-of-contributions.html#points), [a line](/en/overview-of-contributions.html#lines), or [an area](/en/overview-of-contributions.html#areas) - whichever is best for representing the current observation. Only one shape can be drawn for each contribution.
 
 Please note that the drawn shape **can** be changed and edited once contribution has been added to the project.
 
 ### Step 2: Choosing a category
 
-We already know that every contribution belongs to a category, so the second step is to choose one for a new contribution. The list of categories shows all active categories that can be used, also how many fields have been added on each category.
+We already know that every contribution belongs to a category, so the second step is to choose one for a new contribution. The list of categories shows all active categories that can be used and how many fields have been added to each category.
 
 ![Choosing a category for new contribution](/images/en/contributing-choosing-a-category.png){: .img-responsive .center-block }
 
