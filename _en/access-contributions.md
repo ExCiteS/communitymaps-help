@@ -14,7 +14,7 @@ subtitle: "Contributions can be accessed in various different ways: clicking the
 
 When the project is loaded, contributions are displayed on the map. We already know that they can be visible either as the shape of [a point](/en/overview-of-contributions.html#points), [a line](/en/overview-of-contributions.html#lines), or [an area](/en/overview-of-contributions.html#areas). Every shape is a hyperlink to that contribution.
 
-Active contribution is highlighted on the map: if it’s a point, it has a hover around it, otherwise the colour of contribution changes to the bright yellow.
+The currently active contribution is highlighted on the map: if it’s a point, it has a hover around it, otherwise the colour of contribution changes to bright yellow.
 
 ![Highlighted contribution on the map](/images/en/highlighted-point.png){: .img-responsive .center-block }
 
@@ -45,7 +45,7 @@ For management of contributions, we are using four statuses:
 
 ## Use list of contributions and search
 
-Contributions currently visualised on the map are listed on a list of contributions. They have the clickable display fields, also category, author and when the contribution was created is showed under each contribution.
+Contributions currently visualised on the map are listed on a list of contributions. They have a clickable display field, also category, author and when the contribution was created is shown under each contribution.
 
 When searching for specific contributions, the found term is highlighted, and only contributions that match the search criteria are displayed on the map.
 
