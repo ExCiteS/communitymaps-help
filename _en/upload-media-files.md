@@ -12,7 +12,7 @@ subtitle: "High resolution pictures and videos can be attached for public viewin
 
 ## What can be uploaded?
 
-Every contribution can have pictures and videos attached to it. They can be viewed by anyone who has access to contribution, but only creator of that contribution and moderators can add new media.
+Every contribution can have pictures and videos attached to it. They can be viewed by anyone who has access to the contribution, but only the creator of that contribution and moderators can add new media.
 
 This additional data can be uploaded either while adding a new contribution, or when contribution has been already added to the project. Also, any media can be removed from the contribution.
 
@@ -22,7 +22,7 @@ This additional data can be uploaded either while adding a new contribution, or 
 
 Multiple media files can be selected either manually, or by dragging and dropping them on the drop area (modern browsers only).
 
-Every file is firstly added to the list allowing its name to be changed and an optional description added. Each file can then be uploaded individually or all together.
+Before the file is uploaded to our servers it is added to a list of new files. You can change the name of a file and add an optional description. Each file can then be uploaded individually or all together.
 
 ![Uploading media files](/images/en/uploading-media-files.png){: .img-responsive .center-block }
 
@@ -32,7 +32,7 @@ Uploaded pictures appear on the list of media files straight away. They can be v
 
 ![A list of pictures attached to contribution](/images/en/list-of-pictures.png){: .img-responsive .center-block }
 
-Creator of a contribution or moderator of the whole project can delete uploaded pictures at any time. Once deleted, pictures cannot be recovered.
+The creator of a contribution or moderator of the project can delete uploaded pictures at any time. Once deleted, pictures cannot be recovered.
 
 ### Videos
 
