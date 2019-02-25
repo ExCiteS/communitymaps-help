@@ -25,16 +25,16 @@ Multiple media files can be selected either manually, or by dragging and droppin
 Before the file is uploaded to our servers, it is added to a list of new files. You can change the name of a file, and add an optional description. Each file can then be uploaded individually or altogether.
 
 The following types of file type are supported by us:
-•	Pictures
-o	PNG
-o	JPEG
-•	Videos
-o	MP4
-o	MKV
-•	Documents
-o	PDF
-•	Audio
-o	MP3
+* ***•	Pictures***
+*o	PNG*
+*o	JPEG*
+* ***•	Videos***
+*o	MP4*
+*o	MKV*
+* ***•	Documents***
+*o	PDF*
+* ***•	Audio***
+*o	MP3*
 
 ![Uploading media files](/images/en/uploading-media-files.png)
 
