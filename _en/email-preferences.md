@@ -1,7 +1,7 @@
 ---
 layout: english
 title: "Email preferences"
-subtitle: "Use the email prefenreces centre as an easy way to manage your email and control what you receive."
+subtitle: "Use the email preferences centre as an easy way to manage your email and control what you receive."
 
 ---
 
