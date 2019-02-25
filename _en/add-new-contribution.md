@@ -21,6 +21,7 @@ If the project’s settings allow it, every person accessing it can be a contrib
 ### Step 1: Drawing a shape
 
 The first step is to click on the ‘Add contribution’ button and begin to draw the shape on the map: it can either be a [point](#points), a [line](#lines), or an [area](#areas) - whichever best represents the current information being added. Only one shape can be drawn for each contribution.
+
 To get the most accurate location for your contribution, zoom in on the map as closely as you can.
 
 {IMAGE NEEDS TO BE ADDED}
