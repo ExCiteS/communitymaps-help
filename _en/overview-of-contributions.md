@@ -24,17 +24,17 @@ Added contributions can be visible on the map: either as the shape of an [area](
 
 Points are used for mapping single spots on the map; They are usually identified with a bespoke icon and are the same colour as the category used. 
 
-![overview-map](/images/en/overview-map.png)
+![overview-map](/images/overview-map.png)
 
 When there are too many points next to each other, they are grouped into *clusters*. A number on each cluster indicates how many points are grouped together and the colours in a cluster indicate the categories to which points in the cluster belong. As you zoom out, points are assigned to fewer clusters. When you zoom in, more clusters appear.
 
-![map-cluster](/images/en/map-cluster.png)
+![map-cluster](/images/map-cluster.png)
 
 ### Lines
 
 Lines are used for mapping paths, roads, etc. When visualised, they appear as the colour of their selected category.
 
-![One line on the map](/images/en/contribution-line.png)
+![draw-a-line](/images/draw-a-line.png)
 
 When drawing a line on a map, points are added alongside the path. Those points are then connected together to form a single line. The shape is finished with a mouse click on the last point.
 
