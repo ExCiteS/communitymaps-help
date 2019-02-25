@@ -29,21 +29,21 @@ The following types of file type are supported by us:
 
 * *o	PNG*
 
-* *o	JPEG* *
+o	JPEG
 
 * ***Videos***
 
-* *o	MP4*
+o	MP4
 
-* *o	MKV*
+o	MKV
 
 * ***Documents***
 
-* *o	PDF*
+o	PDF
 
 * ***Audio***
 
-* *o	MP3*
+o	MP3
 
 ![Uploading media files](/images/en/uploading-media-files.png)
 
