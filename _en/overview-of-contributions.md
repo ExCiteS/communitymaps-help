@@ -42,7 +42,7 @@ When drawing a line on a map, points are added alongside the path. Those points 
 
 For mapping bigger objects on the map, such as a green space, areas are used. When visualised, they also appear as the colour of their selected category.
 
-![An area on the map](/images/en/contribution-area.png)
+![draw-an-area](/images/draw-an-area.png)
 
 Drawing an area is very similar to drawing a line. The only difference is that the last point of the shape is the first point added. Areas also have the same colour backgrounds as the category chosen.
 
