@@ -29,7 +29,7 @@ The following types of file type are supported by us:
 
 * *o	PNG*
 
-* *o	JPEG*
+* *o	JPEG* *
 
 * ***Videos***
 
