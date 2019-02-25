@@ -27,6 +27,7 @@ Once you’ve finished, scroll down to the bottom and select ‘save settings’
 
 ![Highlighted contribution on the map](/images/en/highlighted-point.png)
 
+
 ## Need more help?
 
 If you are having trouble using the map and need to contact us, simply click on the information (i) icon, where you can find out more information on the project and the administrator of the project.
