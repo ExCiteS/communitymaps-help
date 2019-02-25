@@ -61,7 +61,7 @@ Videos take time to process. Even though they are visible on videos that are upl
 
 ### Documents
 
-Documents (pdf’s) can be uploaded and viewed straight away. They can also be downloaded to your computer.
+Documents (pdf) can be uploaded and viewed straight away. They can also be downloaded to your computer.
 
 ### Audio files
 
