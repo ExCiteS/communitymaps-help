@@ -12,13 +12,13 @@ subtitle: "Once added to the project, contribution can still be edited later on.
 
 ## What can moderators do?
 
-Moderators of a project can have access to all the contributions on it, including pending contributions that are not yet approved and are invisible to regular users. It’s their job to approve them, and to resolve any issues reported.
+Moderators of a project can have access to all of the contributions for that project, including pending contributions that are not yet approved or visible to regular users. It’s their job to approve them, and to resolve any issues reported.
 
 ---
 
 ## Approve contributions
 
-If a project’s settings require every contribution to be approved by a moderator, all pending contributions have a notification with a button “Approve contribution”. Moderators can approve contributions by pressing that button. Before or after the approval process, they can edit any data of the contribution.
+If a project settings require every contribution to be approved by a moderator, all pending contributions will have an “Approve contribution” notification appear”. Before or after the approval process, edits can be made to the contribution.
 
 ![Notification message of a pending contribution](/images/en/pending-contribution-notification.png)
 
@@ -28,7 +28,7 @@ Every day a daily digest email is sent to all the moderators and administrators 
 
 ## Resolve issues
 
-When a contribution has been reported, moderators must resolve the issues and make an action. They can either edit a contribution, or suspend it. Suspended contributions are no longer visible to the public. Only the creator of a contribution can see suspended contributions and fix any issues associated with those contributions.
+When a contribution has been reported, moderators must resolve the issues and take an action. They can either edit a contribution, or suspend it. Suspended contributions are no longer visible to the public. Only the creator of a contribution can see suspended contributions and fix any issues associated with those contributions.
 
 ![Notification message of a reported contribution](/images/en/reported-contribution-notification.png)
 
