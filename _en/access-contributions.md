@@ -81,7 +81,7 @@ The map, makes it easy for you to share contributions.
 
 To share a contribution, you will need to select it on the map, copy the url at the top and send it. Simple!
 
-N.B. When you share it, they will receive it exactly how you view it. So if you are too zoomed in or zoomed out they will see it as that as well.
+*Please note* When you share it, they will receive it exactly how you view it. So if you are too zoomed in or zoomed out they will see it as that as well.
 
 ---
 
