@@ -68,7 +68,7 @@ There can be different fields on a form depending on the project: text field, nu
 
 Anonymous users can only add contributions to the project, but registered users are allowed to save new contributions as a draft and modify them later. Draft contributions can be finished and added to the project later.
 
-Please note that media files **can** be added either during the contributing process or when the contribution has been added to the project but users have to be registered to add media – this helps us to ensure inappropriate files are not uploaded.
+Media files **can** be added either during the contributing process or when the contribution has been added to the project but users have to be registered to add media – this helps us to ensure inappropriate files are not uploaded.
 
 ---
 
