@@ -24,7 +24,7 @@ Added contributions can be visible on the map: either as the shape of an [area](
 
 Points are used for mapping single spots on the map; They are usually identified with a bespoke icon and are the same colour as the category used. 
 
-![One point on the map](/images/en/overview map.png)
+![One point on the map](/images/en/overview-map.png)
 
 When there are too many points next to each other, they are grouped into *clusters*. A number on each cluster indicates how many points are grouped together and the colours in a cluster indicate the categories to which points in the cluster belong. As you zoom out, points are assigned to fewer clusters. When you zoom in, more clusters appear.
 
