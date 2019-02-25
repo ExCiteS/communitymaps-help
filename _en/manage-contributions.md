@@ -1,7 +1,7 @@
 ---
 layout: english
 title: "Manage contributions"
-subtitle: "Once added to the project, contribution can still be edited later on."
+subtitle: "Once a contribution has been added to the project, contributions can be edited later on."
 ---
 
 ## Feeling lost?
@@ -16,7 +16,11 @@ You can edit your own contributions (or all contributions, if you’re a moderat
 
 ![Added contribution to the project](/images/en/added-contribution.png)
 
-When editing a contribution, you can change its shape, move its location, and change, add or remove all its text information. The selected category cannot be changed and always stays the same.
+When editing a contribution, you can change its shape on the map, move its location and add or remove all its text information. The selected category cannot be changed and will always stays the same.
+
+![Added contribution to the project](/images/en/added-contribution.png)
+
+When editing a contribution, you can change its shape on the map, move its location and add or remove all its text information. The selected category cannot be changed and will always stays the same.
 
 ---
 
@@ -32,13 +36,13 @@ Once deleted, contributions **cannot** be recovered. All media files and comment
 
 ## Delete media files
 
-Every added picture or video can be deleted by the creator of a contribution, or moderator of the whole project.
+Every added media file can be deleted by the creator of a contribution, or moderator of the whole project.
 
 ---
 
 ## Delete comments
 
-Every comment can be deleted. You can delete either your personal comments from any contribution, or any comment from your contributions. Comments that have reports in their hierarchy cannot be deleted while the issue is not closed.
+Every comment can be deleted. You can delete either your personal comments from any contribution, or any comment from your contributions. Comments that have reports in their hierarchy cannot be deleted until the issue is closed.
 
 ---
 
