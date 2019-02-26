@@ -24,7 +24,7 @@ The first step is to click on the ‘Add contribution’ button and begin to dra
 
 To get the most accurate location for your contribution, zoom in on the map as closely as you can.
 
-{IMAGE NEEDS TO BE ADDED}
+![draw-a-shape](/images/draw-a-shape.png)
 
 Please note that the drawn shape **can** be changed and edited once a contribution has been added to the project.
 
@@ -32,13 +32,13 @@ Please note that the drawn shape **can** be changed and edited once a contributi
 
 Points are used for mapping single spots, such as bus stops or monuments. They are placed with a single mouse click anywhere on the map.
 
-![Placing a point on the map](/images/en/placing-a-point.png)
+![a-point](/images/a-point.png)
 
 #### Lines
 
 Lines are used for mapping paths, roads, etc. They are drawn by adding points alongside the path, and finished with a mouse click on the last point. Points are connected together automatically to form a single line.
 
-![Drawing a line on the map](/images/en/drawing-a-line.png)
+![a-line](/images/a-line.png)
 
 #### Areas
 
