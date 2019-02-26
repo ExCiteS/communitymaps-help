@@ -26,7 +26,7 @@ To get the most accurate location for your contribution, zoom in on the map as c
 
 ![draw-a-shape](/images/draw-a-shape.png)
 
-Please note that the drawn shape **can** be changed and edited once a contribution has been added to the project.
+Shapes drawn on the map **can** be changed and edited once a contribution has been added to the project.
 
 #### Points
 
