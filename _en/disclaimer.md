@@ -11,4 +11,4 @@ Mapping for Change does not claim ownership of the materials you provide to Comm
 
 ---
 
-For any enquiries please contact us at [help@communitymaps.org.uk](mailto:help@communitymaps.org.uk) or Mapping for Change directly at [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk).
+For any enquiries please contact us at [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk).
