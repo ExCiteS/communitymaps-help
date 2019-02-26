@@ -24,7 +24,7 @@ When editing a contribution, you can change its shape on the map, move its locat
 
 Deletion of personal contributions is also available.
 
-![delete contribution](/images/delete contribution.png)
+![deletecontribution](/images/delete-contribution.png)
 
 Once deleted, contributions **cannot** be recovered. All media files and comments associated with each contribution are deleted too.
 
