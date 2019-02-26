@@ -13,7 +13,7 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 > * [Add comments](add-comments.md)
 > * [Manage contributions](manage-contributions.md)
 > * [Moderate contributions](moderate-contributions.md)
-> * [Email preferences](Email-preferences.md)
+> * [Email preferences](email-preferences.md)
 
 ## Other assistance
 
