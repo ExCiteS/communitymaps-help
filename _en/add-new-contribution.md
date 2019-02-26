@@ -6,7 +6,7 @@ subtitle: "There are three steps when adding a new contribution; drawing a shape
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to access contributions**](access-contributions.html)
+> **&#8629; Let’s head back and** [**find out how to access contributions**](access-contributions.md)
 
 ---
 
@@ -74,4 +74,4 @@ Media files **can** be added either during the contributing process or when the 
 
 ## What’s next?
 
-> **&#8627; Let’s learn** [**how to upload media files to your contributions**](upload-media-files.html)
+> **&#8627; Let’s learn** [**how to upload media files to your contributions**](upload-media-files.md)
