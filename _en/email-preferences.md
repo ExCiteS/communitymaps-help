@@ -32,4 +32,4 @@ If you are having trouble using the map and need to contact us, simply click on 
 
 ## What’s next?
 
-> **&#8627; Let’s learn EDIT THIS** [**how to add contributions**](add-new-contribution.md)
+> **&#8627; Let’s learn** [**how to add contributions**](add-new-contribution.md)
