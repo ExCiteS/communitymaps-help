@@ -14,7 +14,7 @@ subtitle: "Once a contribution has been added to the project, contributions can 
 
 You can edit your own contributions (or all contributions, if you’re a moderator of the project), at any time.
 
-![Added contribution to the project](/images/en/EDIT!!!)
+![edit-contribution](/images/edit-contribution.PNG)
 
 When editing a contribution, you can change its shape on the map, move its location and add or remove all its text information. The selected category cannot be changed and will always stays the same.
 
