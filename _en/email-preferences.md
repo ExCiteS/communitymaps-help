@@ -5,7 +5,7 @@ subtitle: "Use the email preferences centre as an easy way to manage your email 
 
 ---
 
-## Update preferences
+## Update email preferences
 
 As a registered map user, you may receive updates from us via email. You can opt out of some of these notifications in your account dashboard.
 
