@@ -14,6 +14,8 @@ subtitle: "Once added to the project, contribution can still be edited later on.
 
 Moderators of a project can have access to all of the contributions for that project, including pending contributions that are not yet approved or visible to regular users. It’s their job to approve them, and to resolve any issues reported.
 
+![check-moderator](/images/check-moderator.png)
+
 ---
 
 ## Approve contributions
