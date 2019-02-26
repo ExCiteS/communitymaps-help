@@ -44,7 +44,7 @@ When you’re searching for a contribution, you can also use the location search
 
 For example, if you were interested in seeing the contributions in the Central London area, you could search Piccadilly Circus and you’ll see the ones that are nearby.
 
-![location-search](/images/en/location-search.png)
+![finding-a-location](/images/en/finding-a-location.png)
 
 ### But what are those "statuses"?
 
