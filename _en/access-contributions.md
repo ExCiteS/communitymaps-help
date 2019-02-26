@@ -6,7 +6,7 @@ subtitle: "Contributions can be accessed in various different ways: clicking the
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out what contributions are**](overview-of-contributions.html)
+> **&#8629; Let’s head back and** [**find out what contributions are**](overview-of-contributions.md)
 
 ---
 
