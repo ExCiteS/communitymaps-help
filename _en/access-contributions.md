@@ -89,4 +89,4 @@ To share a contribution, you will need to select it on the map, copy the url at 
 
 ## What’s next?
 
-> **&#8627; Let’s learn** [**how to add contributions**](add-new-contribution.html)
+> **&#8627; Let’s learn** [**how to add contributions**](add-new-contribution.md)
