@@ -6,7 +6,7 @@ subtitle: "Once a contribution has been added to the project, contributions can 
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to add comments**](add-comments.html)
+> **&#8629; Let’s head back and** [**find out how to add comments**](add-comments.md)
 
 ---
 
@@ -44,4 +44,4 @@ Every comment can be deleted. You can delete either your personal comments from 
 
 ## What’s next?
 
-> **&#8627; Let’s learn** [**how to moderate contributions**](moderate-contributions.html)
+> **&#8627; Let’s learn** [**how to moderate contributions**](moderate-contributions.md)
