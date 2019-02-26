@@ -5,12 +5,6 @@ subtitle: "Use the email preferences centre as an easy way to manage your email 
 
 ---
 
-## Feeling lost?
-
-> **&#8629; Let’s head back and EDIT THIS** [**find out what contributions are**](overview-of-contributions.html)
-
----
-
 ## Update preferences
 
 As a registered map user, you may receive updates from us via email. You can opt out of some of these notifications in your account dashboard.
@@ -38,4 +32,4 @@ If you are having trouble using the map and need to contact us, simply click on 
 
 ## What’s next?
 
-> **&#8627; Let’s learn EDIT THIS** [**how to add contributions**](add-new-contribution.html)
+> **&#8627; Let’s learn EDIT THIS** [**how to add contributions**](add-new-contribution.md)
