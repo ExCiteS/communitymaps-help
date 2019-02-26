@@ -6,7 +6,7 @@ subtitle: "Once added to the project, contribution can still be edited later on.
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to manage contributions**](manage-contributions.html)
+> **&#8629; Let’s head back and** [**find out how to manage contributions**](manage-contributions.md)
 
 ---
 
@@ -40,4 +40,4 @@ Closed issues are always visible in the comments tab, but can also be deleted as
 
 ## That is it!
 
-> **&#8627; Let’s go back to** [**the home page**](index.html)
+> **&#8627; Let’s go back to** [**the home page**](index.md)
