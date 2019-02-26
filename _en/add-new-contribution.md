@@ -44,13 +44,13 @@ Lines are used for mapping paths, roads, etc. They are drawn by adding points al
 
 Areas are used for mapping bigger objects, such as buildings, parks, lakes. They are drawn by adding points around an object and finished with a mouse click on the first point. Points are connected together automatically and the object is filled in with a colour to form an area.
 
-![Drawing an area on the map](/images/en/drawing-an-area.png)
+![an-area](/images/an-area.png)
 
 ### Step 2: Choosing a category
 
 As every contribution belongs to a category, the next step is to choose one for your new contribution. The list of categories shows all active categories that can be used and how many fields each category contains.
 
-![Choosing a category for new contribution](/images/en/contributing-choosing-a-category.png)
+![categories-list](/images/categories-list.png)
 
 When a category is selected, all the fields of that category are loaded to the form.
 
@@ -62,9 +62,9 @@ On the last step, a form must be filled in.
 
 There can be different fields on a form depending on the project: text field, number field, single lookup and multiple lookup fields, also date and time fields. Appropriate information must be provided for ‘required’, that is mandatory, fields, otherwise a notification is displayed and the field is highlighted.
 
-![Required fields of a category](/images/en/contributing-required-fields.png)
+![filling-in-form](/images/filling-in-form.png)
 
-![Invalid fields of a category](/images/en/contributing-invalid-fields.png)
+![filling-in-date](/images/filling-in-date.png)
 
 Anonymous users can only add contributions to the project, but registered users are allowed to save new contributions as a draft and modify them later. Draft contributions can be finished and added to the project later.
 
