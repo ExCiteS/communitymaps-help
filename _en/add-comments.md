@@ -1,7 +1,7 @@
 ---
 layout: english
 title: "Add comments"
-subtitle: "Every contribution can be discussed about using internal commenting section."
+subtitle: "Every contribution can be discussed using the internal commenting section."
 ---
 
 ## Feeling lost?
