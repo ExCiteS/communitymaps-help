@@ -20,7 +20,7 @@ Moderators of a project can have access to all of the contributions for that pro
 
 If a project settings require every contribution to be approved by a moderator, all pending contributions will have an “Approve contribution” notification appear”. Before or after the approval process, edits can be made to the contribution.
 
-![Notification message of a pending contribution](/images/en/pending-contribution-notification.png)
+![pending contribution](/images/pending contribution.png)
 
 Every day a daily digest email is sent to all the moderators and administrators of a project, informing them about new pending contributions, and about any issues reported with the existing ones.
 
@@ -30,7 +30,7 @@ Every day a daily digest email is sent to all the moderators and administrators 
 
 When a contribution has been reported, moderators must resolve the issues and take an action. They can either edit a contribution, or suspend it. Suspended contributions are no longer visible to the public. Only the creator of a contribution can see suspended contributions and fix any issues associated with those contributions.
 
-![Notification message of a reported contribution](/images/en/reported-contribution-notification.png)
+![reported contribution](/images/reported contribution.png)
 
 Closed issues are always visible in the comments tab, but can also be deleted as if they are regular comments.
 
