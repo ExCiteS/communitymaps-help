@@ -36,16 +36,6 @@ You can also use sub-categories to help you further filter and find more specifi
 
 ![subcategories](/images/subcategories.png)
 
-## Location Search
-
-When you’re searching for a contribution, you can also use the location search option to help show the most relevant search results in a specific area. 
-
-![location-search](/images/location-search.png)
-
-For example, if you were interested in seeing the contributions in the Central London area, you could search Piccadilly Circus and you’ll see the ones that are nearby.
-
-![finding-a-location](/images/finding-a-location.png)
-
 ### But what are those "statuses"?
 
 To manage the contributions, we use four statuses:
@@ -55,7 +45,7 @@ To manage the contributions, we use four statuses:
 * ***Review*** - publicly visible contributions but with an issue reported by someone.
 * ***Draft*** - only creators can see unfinished and publicly inaccessible contributions.
 
----
+--- 
 
 ## Apply subsets
 
@@ -74,6 +64,16 @@ Contributions on the map, are viewed in a list on the map legend and show the di
 When searching for specific contributions, the found term is highlighted, and only contributions that match the search criteria are displayed on a list (also on the map).
 
 ![search-contributions](/images/search-contributions.png)
+
+## Location Search
+
+When you’re searching for a contribution, you can also use the location search option to help show the most relevant search results in a specific area. 
+
+![location-search](/images/location-search.png)
+
+For example, if you were interested in seeing the contributions in the Central London area, you could search Piccadilly Circus and you’ll see the ones that are nearby.
+
+![finding-a-location](/images/finding-a-location.png)
 
 ## Share a contribution
 
