@@ -36,6 +36,8 @@ You can also use sub-categories to help you further filter and find more specifi
 
 ![subcategories](/images/subcategories.png)
 
+---
+
 ### But what are those "statuses"?
 
 To manage the contributions, we use four statuses:
@@ -74,6 +76,8 @@ When you’re searching for a contribution, you can also use the location search
 For example, if you were interested in seeing the contributions in the Central London area, you could search Piccadilly Circus and you’ll see the ones that are nearby.
 
 ![finding-a-location](/images/finding-a-location.png)
+
+---
 
 ## Share a contribution
 
