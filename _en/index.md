@@ -7,7 +7,7 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 ## Contributions
 
 > * [Overview of contributions](overview-of-contributions.md)
-> * *[Email preferences](email-preferences.md)***
+> * ****[Email preferences](email-preferences.md)****
 > * [Access contributions](access-contributions.md)
 > * [Add new contribution](add-new-contribution.md)
 > * [Upload media files](upload-media-files.md)
