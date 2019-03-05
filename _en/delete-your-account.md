@@ -7,7 +7,7 @@ subtitle: "*Please note* - When you delete your account, your profile will be pe
 
 ## Deleting your account
 
-To delete your account, go to your account which should be listed as your username. If you’re not logged into the map, you’ll be asked to log in first. Select ‘Edit your info’ from the drop-down list.
+Go to your account which should be listed as your username. If you’re not logged into the map, you’ll be asked to log in first. Select ‘Edit your info’ from the drop-down list.
 
 ![delete-account-edit-your-info](/images/delete-account-edit-your-info.PNG)
 
