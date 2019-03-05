@@ -20,3 +20,5 @@ Once you have read over the terms, click ‘delete my account’ and your accoun
 ![delete-account-final](/images/delete-account-final.png)
 
 ---
+
+> **&#8627;** [**Go back to the home page**](index.md)
