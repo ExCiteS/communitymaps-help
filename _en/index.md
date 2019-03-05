@@ -14,6 +14,7 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 > * [Manage contributions](manage-contributions.md)
 > * [Moderate contributions](moderate-contributions.md)
 > * [Email preferences](email-preferences.md)
+> * [Delete your account](delete-your-account.md)
 
 ## Other assistance
 
