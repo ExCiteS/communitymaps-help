@@ -38,6 +38,6 @@ Closed issues are always visible in the comments tab, but can also be deleted as
 
 ---
 
-## That is it!
+## What’s next?
 
-> **&#8627; Let’s go back to** [**the home page**](index.md)
+> **&#8627; Let’s learn** [**manage your email preferences**](email-preferences.md)
