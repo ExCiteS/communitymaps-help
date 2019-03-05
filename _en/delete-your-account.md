@@ -1,7 +1,8 @@
 ---
 layout: english
-title: "Delete account"
-subtitle: **Please note** - When you delete your account, your profile will be permantely removed and your contributions will be made anonymous.
+title: "Delete your account"
+subtitle: "*Please note* - When you delete your account, your profile will be permantely removed and your contributions will be made anonymous."
+
 ---
 
 ## Deleting your account
