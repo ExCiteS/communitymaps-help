@@ -30,6 +30,6 @@ If you are having trouble using the map and need to contact us, simply click on 
 
 ---
 
-## What’s next?
+## That's it!
 
-> **&#8627; Let’s learn** [**how to add contributions**](add-new-contribution.md)
+> **&#8627;** [**Go back to the home page**](index.md)
