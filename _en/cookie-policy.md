@@ -42,8 +42,8 @@ To opt out of being tracked by Google Analytics across all websites visit [Googl
 **Cookies on our websites**  
 
 |Domain     |Cookie name       |Purpose           |
-| :------------ | :---------------------- | :------------- |
-|  Google.com |-ga | We use Google Analytics to help analyse how you user our websites in order to improve our service. In addition, we use cookies to remember your preferences, such as your preferred language. Google provides an opt-out tool to disable cookies| 
+|   :------------- |   :------------------------------ |   :-------------------------- |
+|  Google.com |\_ga, \_gid, \_gat, NID | We use Google Analytics to help analyse how you user our websites in order to improve our service. In addition, we use cookies to remember your preferences, such as your preferred language. Google provides an opt-out tool to disable cookies| 
 |      |      CONSENT        |To allow the cookie message to appear as you use our websites. |
 |               | 1P_JAR    | To gather website statistics and track conversion rates.      |
 |  Adobe.com  | s_vi | Enables Adobe to open PDFs from our websites.           |
