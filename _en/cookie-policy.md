@@ -50,4 +50,4 @@ To opt out of being tracked by Google Analytics across all websites visit [Googl
 |Geokey.org.uk  | djdt  |   To remove bugs from the website. It is strictly necessary.       |
 |               |  csrftoken   |   To help protect a site against a particular type of software attack on web forms. It is strictly necessary.|     
 |             |sessionid   | To anonymously identify your session. It is strictly necessary.  |
-|             |messages    |To enable the cookie message to appear as you use our websites.   |
+|             |messages    |To enable the cookie message to appear as you use our websites.  |
