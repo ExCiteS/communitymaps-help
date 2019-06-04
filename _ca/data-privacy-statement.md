@@ -80,14 +80,10 @@ Els nostres llocs web utilitzen cookies per distingir-lo/a d’altres usuaris o 
 
 Mantenim el nostre avís de privacitat sota revisió regular. Aquest avís de privacitat va ser actualitzat per  última vegada el 12 de febrer de 2019.
 
-# Com posar-se en contacte amb nosaltres
+## Com posar-se en contacte amb nosaltres
 
 Si desitja sol·licitar informació sobre la nostra política de privacitat pot enviar-nos un correu electrònic o escriure’ns a:
-Mapping for Change CIC
-Mildmay Community Centre
-Woodville Road
-London
-N16 8NA
+Mapping for Change CIC. Mildmay Community Centre. Woodville Road. London. N16 8NA
 
 ## Mapping for Change CIC - Calendari de retencions
 
