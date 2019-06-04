@@ -81,11 +81,7 @@ We keep our privacy notice under regular review. This privacy notice was last up
 
 ## How to contact us
 If you want to request information about our privacy policy you can email us or write to:
-Mapping for Change CIC
-Mildmay Community Centre
-Woodville Road
-London
-N16 8NA
+Mapping for Change CIC. Mildmay Community Centre. Woodville Road. London. N16 8NA
 
 ## Mapping for Change CIC retention periods
 
