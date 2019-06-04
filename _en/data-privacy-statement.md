@@ -58,8 +58,7 @@ For further information on each of those rights, including the circumstances in 
 If you would like to exercise any of those rights, please:
 - email (info @ mappingforchange.org.uk), or write to us
 - let us have enough information to identify you
-- let us have proof of your identity and address (a copy of your driving licence
-- or passport and a recent utility or credit card bill), and
+- let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill), and
 - let us know the information to which your request relates.
 
 You can find out if we hold any personal information about you by making a ‘subject access request’ under the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
