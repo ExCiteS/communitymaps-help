@@ -39,6 +39,7 @@ We will share personal information with law enforcement or other authorities if 
 We will hold your personal data for the duration in which your Community Maps account is maintained.
 
 ## Reasons we can collect and use your personal information
+
 When you register as a user of Community Maps, we seek your consent to the processing of your data as outlined above.  We rely on this consent as the lawful basis on which we collect and use your personal data.
 
 ## Your rights
@@ -74,13 +75,16 @@ The data that we collect from you may be transferred to, and stored at, a destin
 Where you have chosen a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. Do not share your password with anyone and do not use a password that you have already used to access other websites or services.
 
 ## Cookies
+
 Our websites use cookies to distinguish you from other users or visitors. This helps us to provide you with a good experience when you browse our sites and also allows us to improve our sites. For detailed information on the cookies we use and the purposes for which we use them please read our [cookie policy](http://help.communitymaps.org.uk/en/cookie-policy.html).
 
 ## Changes to this privacy notice
+
 We keep our privacy notice under regular review. This privacy notice was last updated on 26th March 2019
 
 ## How to contact us
-If you want to request information about our privacy policy you can email us or write to:
+
+If you want to request information about our privacy policy you can email us (info @ mappingforchange.org.uk) or write to:
 Mapping for Change CIC. Mildmay Community Centre. Woodville Road. London. N16 8NA
 
 ## Mapping for Change CIC retention periods
