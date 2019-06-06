@@ -38,13 +38,10 @@ Utilizamos cookies para hacer que nuestra web funcione:
 Si tu navegador está configurado para aceptar cookies y continúas navegando, consideraremos que aceptas su uso. Si quisieras eliminar o rechazar las cookies de nuestra web, te indicamos cómo hacerlo más abajo, pero si lo haces, esta no tendrá el funcionamiento esperado.
 
 ## ¿Cómo puedo cambiar la configuración de las cookies?
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit aboutcookies.org or allaboutcookies.org.
-
-To opt out of being tracked by Google Analytics across all websites visit Google Analytics Opt-out Browser Add-on.
 
 La mayoría de los navegadores permiten controlar de alguna forma la mayoría de las cookies accediendo a la configuración. Para saber más acerca de las cookies, cómo gestionarlas o borrarlas, puedes visitar [https://tools.google.com/dlpage/gaoptout?hl=es](https://tools.google.com/dlpage/gaoptout?hl=es). 
 
-Si quieres desinstalar o desactivar las cookies de Google analytics, visita https://tools.google.com/dlpage/gaoptout?hl=es.
+Si quieres desinstalar o desactivar las cookies de Google analytics, visita [https://tools.google.com/dlpage/gaoptout?hl=es](https://tools.google.com/dlpage/gaoptout?hl=es).
 
 ## Cookies en nuestra web
 
