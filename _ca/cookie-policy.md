@@ -1,6 +1,6 @@
 ---
 layout: catalan
-title: "Cookie policy"
+title: "Política de cookies"
 ---
 
 La nostra pàgina web fa servir cookies, com gairebé totes les webs, per ajudar-nos a proporcionar-li la millor experiència possible.
