@@ -1,6 +1,6 @@
 ---
 layout: italian
-title: "Data privacy statement"
+title: "Informativa sulla privacy"
 ---
 
 Ti chiediamo di leggere attentamente questa informativa sulla privacy, poiché contiene informazioni importanti su chi siamo e perché raccogliamo, conserviamo, utilizziamo e condividiamo informazioni personali, i tuoi diritti in relazione alle tue informazioni personali e su come contattare noi e gli enti di vigilanza per reclami.
