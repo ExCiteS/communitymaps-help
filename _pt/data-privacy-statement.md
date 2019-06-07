@@ -1,6 +1,6 @@
 ---
 layout: portuguese
-title: "Data privacy statement"
+title: "Aviso de privacidade"
 ---
 
 Pedimos que leia este aviso de privacidade cuidadosamente, pois contém informações importantes sobre quem somos, como e por que reunimos, armazenamos, usamos e partilhamos informações pessoais, seus direitos em relação às suas informações pessoais e sobre como entrar em contato connosco e com as autoridades de supervisão se tiver uma reclamação.
@@ -44,7 +44,7 @@ Quando se regista como utilizador do “Community Maps”, solicitamos o seu con
 
 ## Seus direitos
 
-De acordo com o [Regulamento Geral de Proteção de Dados](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32016R0679), o utilizador tem vários direitos importantes e gratuitos. Em resumo, esses incluem direitos para:
+De acordo com o [Regulamento Geral de Proteção de Dados](https://eur-lex.europa.eu/legal-content/pt/TXT/PDF/?uri=CELEX:32016R0679&from=pt), o utilizador tem vários direitos importantes e gratuitos. Em resumo, esses incluem direitos para:
 - aceder às suas informações pessoais e a outras informações suplementares que este Aviso de Privacidade já abordou
 - exigir que corrijamos quaisquer erros em quaisquer informações suas que tenhamos
 - exigir o eliminar de informações pessoais sobre si, em determinadas situações
