@@ -1,6 +1,6 @@
 ---
 layout: italian
-title: "Cookie policy"
+title: "Informativa sui cookie"
 ---
 
 I nostri siti Web utilizzano i cookie, come quasi tutti i siti Web, per aiutarti a fornire la migliore esperienza possibile.
