@@ -1,6 +1,6 @@
 ---
 layout: spanish
-title: "Declaración de privacidad"
+title: "Aviso de privacidad"
 ---
 
 Nos gustaría que leyeras con detenimiento este aviso de privacidad ya que contiene información importante sobre quiénes somos, cómo y por qué recopilamos, almacenamos y compartimos información personal; tus derechos en relación con esa información y cómo contactarnos o cómo contactar con las autoridades pertinentes en caso de queja.
