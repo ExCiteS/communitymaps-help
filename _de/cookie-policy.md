@@ -1,6 +1,6 @@
 ---
 layout: german
-title: "Cookie policy"
+title: "Cookie-Richtlinie"
 ---
 
 Unsere Websites verwenden Cookies, wie fast alle anderen Websites auch, um Ihnen das bestmögliche Erlebnis zu bieten.
