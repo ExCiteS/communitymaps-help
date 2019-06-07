@@ -1,6 +1,6 @@
 ---
 layout: french
-title: "Cookie policy"
+title: "Déclaration sur les Cookies"
 ---
 
 Nos sites Web utilisent des cookies, comme presque tous les sites Web, pour vous fournir la meilleure expérience possible.
