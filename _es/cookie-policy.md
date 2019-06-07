@@ -1,6 +1,6 @@
 ---
 layout: spanish
-title: "Cookie policy"
+title: "Política de cookies"
 ---
 
 Nuestra web utiliza cookies, al igual que las demás páginas web, para ofrecerte la mejor experiencia de navegación posible.
