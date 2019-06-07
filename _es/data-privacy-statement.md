@@ -41,7 +41,7 @@ Guardaremos tus datos personales mientras tengas una cuenta en Community Maps.
 Cuando te registras en Community Maps, solicitamos tu consentimiento para el tratamiento de los datos mencionados anteriormente. Entendemos este consentimiento como la base legal por la cual recogemos y usamos sus datos personales.
 
 ## Tus derechos
-Bajo el [Reglamento General de Protección de datos](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32016R0679) tienes una serie de derechos esenciales que se ejercitan de manera gratuita. En líneas generales, se incluye el derecho de:
+Bajo el [Reglamento General de Protección de datos](https://eur-lex.europa.eu/legal-content/es/TXT/PDF/?uri=CELEX:32016R0679&from=Es) tienes una serie de derechos esenciales que se ejercitan de manera gratuita. En líneas generales, se incluye el derecho de:
 - acceso a tus datos personales y a cierta información complementaria que este Aviso de Privacidad ya se encarga de abordar;
 - rectificación de cualquier inexactitud que contengan tus datos personales;
 - supresión de tus datos personales;
