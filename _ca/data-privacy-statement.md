@@ -1,6 +1,6 @@
 ---
 layout: catalan
-title: "Data privacy statement"
+title: "Avís de privacitat"
 ---
 
 Li demanem que llegeixi atentament aquest avís de privacitat, ja que conté informació important sobre qui som, com i per què recopilem, emmagatzemem, utilitzem i compartim informació personal, els seus drets en relació amb la seva informació personal i sobre com posar-se en contacte amb nosaltres i amb les autoritats supervisores en cas de que tingui alguna queixa.
