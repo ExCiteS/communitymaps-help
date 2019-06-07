@@ -1,6 +1,6 @@
 ---
 layout: french
-title: "Data privacy statement"
+title: "Politique de confidentialité"
 ---
 
 Nous vous recommandons fortement de lire cette notice de confidentialité.  Elle contient des informations essentielles sur Mapping for Change : qui nous sommes, comment et pourquoi nous collectons, stockons, utilisons et partageons vos informations personnelles, vos droits concernant vos informations personnelles et la démarche à suivre pour nous contacter ou contacter les autorités concernées en cas de plainte. 
