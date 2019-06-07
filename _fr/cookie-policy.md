@@ -16,7 +16,7 @@ Nous utilisons certains cookies nécessaires pour vous aider à accéder à nos 
 Nos cookies nous aident à : 
 - Faire en sorte que nos sites Web fonctionnent comme prévu
 - Vous éviter d'avoir à vous connecter à chaque visite d’un site où d’une page individuelle
-- Mémorisez vos paramètres pendant et entre les visites
+- Mémoriser vos paramètres pendant et entre les visites
 - Améliorer la vitesse / sécurité des sites
 - Vous permettre de partager des pages avec des réseaux sociaux tels que Facebook
 - Améliorer continuellement nos sites Web pour vous
