@@ -1,6 +1,6 @@
 ---
 layout: german
-title: "Data privacy statement"
+title: "Datenschutzerklärung"
 ---
 
 Wir bitten Sie, diese Datenschutzerklärung sorgfältig durchzulesen, da sie wichtige Informationen darüber enthält, wer wir sind, wie und warum wir personenbezogene Daten erheben, speichern, verwenden und weitergeben, Ihre Rechte in Bezug auf Ihre personenbezogenen Daten und wie Sie uns und die Aufsichtsbehörden kontaktieren können, falls Sie eine Beschwerde haben.
