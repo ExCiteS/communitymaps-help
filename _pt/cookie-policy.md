@@ -1,6 +1,6 @@
 ---
 layout: portuguese
-title: "Cookie policy"
+title: "Declaração de cookies"
 ---
 
 Os nossos sites utilizam cookies, como quase todos os sites, para ajudar a proporcionar a melhor experiência possível.
