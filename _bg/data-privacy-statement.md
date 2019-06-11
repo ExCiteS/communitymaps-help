@@ -83,7 +83,7 @@ Mapping for Change CIC („Ние“) събира, използва и отго
 ## Как да се свържете с нас
 
 Ако имате въпроси относно декларацията ни за поверителност, може да ни пишете на нашата електронна поща или на адрес:
-Mapping for Change CIC, Mildmay Community Centre, Уудвил Роуд, Лондон, N16 8NA
+Mapping for Change CIC, Mildmay Community Centre, Woodville Road, London, N16 8NA
 
 ## Картографиране за промяна на CIC - График за съхранение
 
