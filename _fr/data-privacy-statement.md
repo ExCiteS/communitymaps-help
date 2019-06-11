@@ -55,6 +55,8 @@ Sous le [Règlement Général sur la Protection des Données de l’Union Europ�
 - Votre droit à vous opposer, dans certaines autres situations, à la poursuite du traitement de vos informations personnelles 
 - Autrement, votre droit à restreindre le traitement de vos informations personnelles dans certaines circonstances 
 
+Pour plus d’information sur chacun de ces droits, y compris les circonstances dans lesquelles ces droits s’appliquent, veuillez vous référer au [Guide du Règlement Européen sur la Protection des Données du CNIL](https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles) (Commission Nationale de l’Information et des Libertés). 
+
 Si vous souhaitez exercer l’un de ces droits, veuillez : 
 - Nous envoyer un e-mail (info @ mappingforchange.org.uk) ou nous écrire 
 - Nous laisser suffisamment d’information pour que vous puissions vous identifier 
