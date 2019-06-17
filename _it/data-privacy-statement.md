@@ -53,6 +53,8 @@ In base al [Regolamento Generale sulla Protezione dei Dati](https://eur-lex.euro
 - opporti in altre situazioni alla nostra continua elaborazione delle tue informazioni personali
 - altrimenti limitare la nostra elaborazione delle tue informazioni personali in certe circostanze
 
+Per ulteriori informazioni su ciascuno di tali diritti, incluse le circostanze in cui si applicano, consultare la [Guida all'applicazione del Regolamento europeo in materia di protezione dei dati personali](https://www.garanteprivacy.it/web/guest/regolamentoue/diritti-degli-interessati).
+
 Se vuoi esercitare uno di questi diritti, ti preghiamo di:
 - inviarci una email (info @ mappingforchange.org.uk), o di scriverci
 - fornirci abbastanza informazioni per identificarti 
