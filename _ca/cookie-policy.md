@@ -40,7 +40,7 @@ Si la configuració de software que vostè utilitza per visitar les nostres pàg
 
 ## Com puc canviar la configuració de les meves cookies?
 
-La majoria de navegadors web permeten un cert control de les cookies a través de la configuració del mateix navegador. Per tal d’obtenir més informació sobre les cookies, inclòs com veure quines cookies s’ha establert i com administrar-les i eliminar-les, visiti www.aboutcookies.org o www.allaboutcookies.org. 
+La majoria de navegadors web permeten un cert control de les cookies a través de la configuració del mateix navegador. Per tal d’obtenir més informació sobre les cookies, inclòs com veure quines cookies s’ha establert i com administrar-les i eliminar-les, visiti www.aboutcookies.org o www.allaboutcookies.org.
 
 Per optar per no ser rastrejat per Google Analytics en totes les pàgines web, visiti http://tools.google.com/dlpage/gaoptout.
 

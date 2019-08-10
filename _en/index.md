@@ -13,7 +13,9 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 > * [Add comments](add-comments.html)
 > * [Manage contributions](manage-contributions.html)
 > * [Moderate contributions](moderate-contributions.html)
+> * [Email preferences](email-preferences.html)
+> * [Delete your account](delete-your-account.html)
 
 ## Other assistance
 
-If you require any additional information on how to use Community Maps participatory mapping platform, please don’t hesitate to contact us at [help@communitymaps.org.uk](mailto:help@communitymaps.org.uk).
+If you require any additional information on how to use Community Maps participatory mapping platform, please don't hesitate to contact us at [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk).

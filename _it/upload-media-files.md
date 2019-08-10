@@ -22,7 +22,7 @@ Questi file multimediali si possono aggiungere o quando stai creando un contribu
 
 Seleziona uno o piu file multimediale o manualmente o trascinandoli nella zona calo.
 
-Prima che il file viene caricato, viene aggiunto ad una lista di file nuovi.  Si puo cambiare il nome del file, ed aggiungere una descrizione del contenuto.  I file possono essere caricati o uno ad uno o tutti insieme. 
+Prima che il file viene caricato, viene aggiunto ad una lista di file nuovi.  Si puo cambiare il nome del file, ed aggiungere una descrizione del contenuto.  I file possono essere caricati o uno ad uno o tutti insieme.
 
 ![Caricare i file multimediali](/images/it/uploading-media-files.png)
 
@@ -32,7 +32,7 @@ Le immagini caricati compaiano subito sulla lista di file multimediali.  Per ved
 
 ![Una lista degli immagini congiunti ad un contributo](/images/it/list-of-pictures.png)
 
-Il contributore di un contributo, o il moderatore, possono rimuovere e cancellare le immagini.  Una volta cancellati, non sara possible ricuperare i file. 
+Il contributore di un contributo, o il moderatore, possono rimuovere e cancellare le immagini.  Una volta cancellati, non sara possible ricuperare i file.
 
 ### Video
 
@@ -47,5 +47,3 @@ Si puo ascolare subito i file audio.  Pero, file *3gpp* and *3gpp2* saranno conv
 ## Il tutorial seguente:
 
 > **&#8627; Impariamo** [**come aggiungere i commenti ai contributi**](add-comments.html)
-
-

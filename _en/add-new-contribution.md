@@ -6,13 +6,13 @@ subtitle: "There are three steps when adding a new contribution; drawing a shape
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to access contributions**](access-contributions.html)
+> **&#8629; Let's head back and** [**find out how to access contributions**](access-contributions.html)
 
 ---
 
 ## Can I contribute?
 
-If the project’s settings allow it, every person accessing it can be a contributor. Sometimes administrators of a project can restrict contributing either to registered users or only to some specific users.
+If the project's settings allow it, every person accessing it can be a contributor. Sometimes administrators of a project can restrict contributing either to registered users or only to some specific users.
 
 ---
 
@@ -20,56 +20,58 @@ If the project’s settings allow it, every person accessing it can be a contrib
 
 ### Step 1: Drawing a shape
 
-The first step when adding a new contribution is to draw the shape of it on the map: it can either be a [point](#points), a [line](#lines), or an [area](#areas) - whichever best represents current information. Only one shape can be drawn for each contribution.
+The first step is to click on the 'Add contribution' button and begin to draw the shape on the map: it can either be a [point](#points), a [line](#lines), or an [area](#areas) - whichever best represents the current information being added. Only one shape can be drawn for each contribution.
 
-Please note that the drawn shape **can** be changed and edited once a contribution has been added to the project.
+To get the most accurate location for your contribution, zoom in on the map as closely as you can.
+
+![Draw a shape](/images/en/draw-a-shape.png)
+
+Shapes drawn on the map **can** be changed and edited once a contribution has been added to the project.
 
 #### Points
 
 Points are used for mapping single spots, such as bus stops or monuments. They are placed with a single mouse click anywhere on the map.
 
-![Placing a point on the map](/images/en/placing-a-point.png)
+![A point](/images/en/a-point.png)
 
 #### Lines
 
 Lines are used for mapping paths, roads, etc. They are drawn by adding points alongside the path, and finished with a mouse click on the last point. Points are connected together automatically to form a single line.
 
-![Drawing a line on the map](/images/en/drawing-a-line.png)
+![A line](/images/en/a-line.png)
 
 #### Areas
 
-Areas are used for mapping bigger objects, such as buildings, parks, lakes. They are drawn by adding points around an object, and finished with a mouse click on the first point. Points are connected together automatically and the object is filled in with a colour to form an area.
+Areas are used for mapping bigger objects, such as buildings, parks, lakes. They are drawn by adding points around an object and finished with a mouse click on the first point. Points are connected together automatically and the object is filled in with a colour to form an area.
 
-![Drawing an area on the map](/images/en/drawing-an-area.png)
+![An area](/images/en/an-area.png)
 
 ### Step 2: Choosing a category
 
-We already know that every contribution belongs to a category, so the second step is to choose one for a new contribution. The list of categories shows all active categories that can be used and how many fields have been added to each category.
+As every contribution belongs to a category, the next step is to choose one for your new contribution. The list of categories shows all active categories that can be used and how many fields each category contains.
 
-![Choosing a category for new contribution](/images/en/contributing-choosing-a-category.png)
+![Categories list](/images/en/categories-list.png)
 
 When a category is selected, all the fields of that category are loaded to the form.
 
-Please note that the chosen category **cannot** be changed once a contribution has been added to the project.
+Please note that the chosen category **cannot** be edited once a contribution has been added to the project, but any of the details can be changed at any point.
 
 ### Step 3: Completing a form
 
 On the last step, a form must be filled in.
 
-All the required fields can *only* be left empty if a contribution is saved as a draft. Otherwise a notification is displayed and the required field is highlighted.
+There can be different fields on a form depending on the project: text field, number field, single lookup and multiple lookup fields, also date and time fields. Appropriate information must be provided for 'required', that is mandatory, fields, otherwise a notification is displayed and the field is highlighted.
 
-![Required fields of a category](/images/en/contributing-required-fields.png)
+![Filling in form](/images/en/filling-in-form.png)
 
-There can be different fields on a form: text field, number field, single lookup and multiple lookup fields, also date and time fields. Appropriate information *must be* provided for each field, otherwise a notification is displayed and the field is highlighted.
+![Filling in date](/images/en/filling-in-date.png)
 
-![Invalid fields of a category](/images/en/contributing-invalid-fields.png)
+Anonymous users can only add contributions to the project, but registered users are allowed to save new contributions as a draft and modify them later. Draft contributions can be finished and added to the project later.
 
-Anonymous users can only add contributions to the project, but registered users are allowed to save it as a draft. Draft contributions can be finished and added to the project later.
-
-Please note that media files **can** be added either during the contributing process or when the contribution has been added to the project.
+Media files **can** be added either during the contributing process or when the contribution has been added to the project but users have to be registered to add media – this helps us to ensure inappropriate files are not uploaded.
 
 ---
 
-## What’s next?
+## What's next?
 
-> **&#8627; Let’s learn** [**how to upload media files to your contributions**](upload-media-files.html)
+> **&#8627; Let's learn** [**how to upload media files to your contributions**](upload-media-files.html)

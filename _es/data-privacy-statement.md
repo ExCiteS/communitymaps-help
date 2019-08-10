@@ -30,7 +30,7 @@ Usaremos tus datos personales para:
 - Permitir que interactúes, cuando tú decidas hacerlo.
 - Informarte sobre cambios en nuestro servicio.
 
-## Con quién compartimos tus datos personales 
+## Con quién compartimos tus datos personales
 
 Compartiremos tus datos personales con los organismos judiciales y otras autoridades cuando así lo requiera la legislación aplicable. El acceso a tus datos personales está limitado para aquellos servicios que son necesarios para el funcionamiento de nuestra web ofrecidos por terceras partes. Aquellas que procesen tus datos lo harán solo de forma autorizada y bajo deber de confidencialidad.
 

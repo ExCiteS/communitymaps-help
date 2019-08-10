@@ -39,7 +39,7 @@ Si tu navegador está configurado para aceptar cookies y continúas navegando, c
 
 ## ¿Cómo puedo cambiar la configuración de las cookies?
 
-La mayoría de los navegadores permiten controlar de alguna forma la mayoría de las cookies accediendo a la configuración. Para saber más acerca de las cookies, cómo gestionarlas o borrarlas, puedes visitar [http://www.allaboutcookies.org/es/](http://www.allaboutcookies.org/es/). 
+La mayoría de los navegadores permiten controlar de alguna forma la mayoría de las cookies accediendo a la configuración. Para saber más acerca de las cookies, cómo gestionarlas o borrarlas, puedes visitar [http://www.allaboutcookies.org/es/](http://www.allaboutcookies.org/es/).
 
 Si quieres desinstalar o desactivar las cookies de Google analytics, visita [https://tools.google.com/dlpage/gaoptout?hl=es](https://tools.google.com/dlpage/gaoptout?hl=es).
 

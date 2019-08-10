@@ -22,7 +22,7 @@ Wir möchten Ihnen die bestmögliche Benutzererfahrung bei der Nutzung unserer W
 ## Wie wir Ihre personenbezogenen Daten verwenden
 
 Wir werden Ihre personenbezogenen Daten verwenden, um:
-- Ihre Identität zu überprüfen und Ihre Registrierung für Community Maps zu bestätigen. 
+- Ihre Identität zu überprüfen und Ihre Registrierung für Community Maps zu bestätigen.
 - Damit Sie sich einloggen und auf Community Maps zugreifen oder zu diesen beitragen können.
 - Um sicherzustellen, dass Sie Feedback und Antworten auf von Ihnen gestellte Fragen erhalten.
 - Um sicherzustellen, dass die Inhalte unserer Website auf die für Sie und Ihren Computer effektivste Weise präsentiert werden.
@@ -30,7 +30,7 @@ Wir werden Ihre personenbezogenen Daten verwenden, um:
 - Damit Sie an den interaktiven Funktionen unseres Service teilnehmen können, falls Sie dies wünschen.
 - Um Sie über Änderungen an unserem Service zu informieren.
 
-## An wen wir Ihre personenbezogenen Daten weitergeben 
+## An wen wir Ihre personenbezogenen Daten weitergeben
 
 Wir werden personenbezogene Daten an Strafverfolgungsbehörden oder andere Behörden weitergeben, wenn dies nach geltendem Recht erforderlich ist. Wir beschränken den Zugang zu Ihren personenbezogenen Daten auf diejenigen, die einen echten geschäftlichen Bedarf haben diese zu kennen. Diejenigen, die Ihre Daten verarbeiten, werden dies nur auf autorisierte Weise tun und unterliegen der Geheimhaltungspflicht.
 
