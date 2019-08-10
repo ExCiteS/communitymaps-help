@@ -1,6 +1,6 @@
 ---
 layout: italian
-title: "Dichiarazione di limitazione di responsabilità,"
+title: "Dichiarazione di limitazione di responsabilità"
 ---
 
 La piattaforma Commuinty Maps viene offerto all'utente a condizione che l'utente accetti senza modifiche i termini, le condizioni, e le comunicazioni contenute nel presente accordo. L'utilizzo della piattaforma Community Maps costituisce accettazione di tutti tali termini, le condizioni, e comunicazioni. Se non si accettano i termini di servizio, si prega di non utilizzare questa piattaforma. Mapping for Change si riserva il diritto di modificare i termini, le condizioni, e le comunicazioni ai sensi dei quali viene offerto la piattaforma Community Maps. L'utente accetta che l'utilizzo delle Community Maps è interamente a proprio rischio. Mapping for Change ed i suoi collaboratori declinano tutte le garanzie in relazione con la piattaforma Community Maps e il loro utilizzo.
