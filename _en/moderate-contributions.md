@@ -6,13 +6,13 @@ subtitle: "Once added to the project, contribution can still be edited later on.
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to manage contributions**](manage-contributions.html)
+> **&#8629; Let's head back and** [**find out how to manage contributions**](manage-contributions.html)
 
 ---
 
 ## What can moderators do?
 
-Moderators of a project can have access to all of the contributions for that project, including pending contributions that are not yet approved or visible to regular users. It’s their job to approve them, and to resolve any issues reported.
+Moderators of a project can have access to all of the contributions for that project, including pending contributions that are not yet approved or visible to regular users. It's their job to approve them, and to resolve any issues reported.
 
 ![Check moderator](/images/en/check-moderator.png)
 
@@ -20,7 +20,7 @@ Moderators of a project can have access to all of the contributions for that pro
 
 ## Approve contributions
 
-If a project settings require every contribution to be approved by a moderator, all pending contributions will have an “Approve contribution” notification appear”. Before or after the approval process, edits can be made to the contribution.
+If a project settings require every contribution to be approved by a moderator, all pending contributions will have an "Approve contribution" notification appear". Before or after the approval process, edits can be made to the contribution.
 
 ![Pending contribution](/images/en/pending-contribution.png)
 
@@ -38,6 +38,6 @@ Closed issues are always visible in the comments tab, but can also be deleted as
 
 ---
 
-## What’s next?
+## What's next?
 
-> **&#8627; Let’s learn** [**how to manage your email preferences**](email-preferences.html)
+> **&#8627; Let's learn** [**how to manage your email preferences**](email-preferences.html)

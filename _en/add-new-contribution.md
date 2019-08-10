@@ -6,13 +6,13 @@ subtitle: "There are three steps when adding a new contribution; drawing a shape
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to access contributions**](access-contributions.html)
+> **&#8629; Let's head back and** [**find out how to access contributions**](access-contributions.html)
 
 ---
 
 ## Can I contribute?
 
-If the project’s settings allow it, every person accessing it can be a contributor. Sometimes administrators of a project can restrict contributing either to registered users or only to some specific users.
+If the project's settings allow it, every person accessing it can be a contributor. Sometimes administrators of a project can restrict contributing either to registered users or only to some specific users.
 
 ---
 
@@ -20,7 +20,7 @@ If the project’s settings allow it, every person accessing it can be a contrib
 
 ### Step 1: Drawing a shape
 
-The first step is to click on the ‘Add contribution’ button and begin to draw the shape on the map: it can either be a [point](#points), a [line](#lines), or an [area](#areas) - whichever best represents the current information being added. Only one shape can be drawn for each contribution.
+The first step is to click on the 'Add contribution' button and begin to draw the shape on the map: it can either be a [point](#points), a [line](#lines), or an [area](#areas) - whichever best represents the current information being added. Only one shape can be drawn for each contribution.
 
 To get the most accurate location for your contribution, zoom in on the map as closely as you can.
 
@@ -60,7 +60,7 @@ Please note that the chosen category **cannot** be edited once a contribution ha
 
 On the last step, a form must be filled in.
 
-There can be different fields on a form depending on the project: text field, number field, single lookup and multiple lookup fields, also date and time fields. Appropriate information must be provided for ‘required’, that is mandatory, fields, otherwise a notification is displayed and the field is highlighted.
+There can be different fields on a form depending on the project: text field, number field, single lookup and multiple lookup fields, also date and time fields. Appropriate information must be provided for 'required', that is mandatory, fields, otherwise a notification is displayed and the field is highlighted.
 
 ![Filling in form](/images/en/filling-in-form.png)
 
@@ -72,6 +72,6 @@ Media files **can** be added either during the contributing process or when the 
 
 ---
 
-## What’s next?
+## What's next?
 
-> **&#8627; Let’s learn** [**how to upload media files to your contributions**](upload-media-files.html)
+> **&#8627; Let's learn** [**how to upload media files to your contributions**](upload-media-files.html)

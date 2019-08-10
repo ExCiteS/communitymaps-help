@@ -7,7 +7,7 @@ We ask that you read this privacy notice carefully as it contains important info
 
 ## Who we are
 
-Mapping for Change CIC (“We”) collects, uses and is responsible for certain personal information about you. When we do so we are regulated under the General Data Protection Regulation which applies across the European Union (including in the United Kingdom) and we are responsible as ‘controller’ of that personal information for the purposes of those laws.
+Mapping for Change CIC ("We") collects, uses and is responsible for certain personal information about you. When we do so we are regulated under the General Data Protection Regulation which applies across the European Union (including in the United Kingdom) and we are responsible as 'controller' of that personal information for the purposes of those laws.
 
 ## The personal information we collect and use
 
@@ -54,7 +54,7 @@ Under the [General Data Protection Regulation](http://eur-lex.europa.eu/legal-co
 - object in certain other situations to our continued processing of your personal information
 - otherwise restrict our processing of your personal information in certain circumstances
 
-For further information on each of those rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the General Data Protection Regulation](http://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
+For further information on each of those rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner's Office (ICO) on individuals rights under the General Data Protection Regulation](http://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
 
 If you would like to exercise any of those rights, please:
 - email (info @ mappingforchange.org.uk), or write to us
@@ -62,7 +62,7 @@ If you would like to exercise any of those rights, please:
 - let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill), and
 - let us know the information to which your request relates.
 
-You can find out if we hold any personal information about you by making a ‘subject access request’ under the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+You can find out if we hold any personal information about you by making a 'subject access request' under the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Keeping your personal information secure
 

@@ -6,13 +6,13 @@ subtitle: "Once a contribution has been added to the project, contributions can 
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to add comments**](add-comments.html)
+> **&#8629; Let's head back and** [**find out how to add comments**](add-comments.html)
 
 ---
 
 ## Edit contribution
 
-You can edit your own contributions (or all contributions, if you’re a moderator of the project), at any time.
+You can edit your own contributions (or all contributions, if you're a moderator of the project), at any time.
 
 ![Edit contribution](/images/en/edit-contribution.PNG)
 
@@ -42,6 +42,6 @@ Every comment can be deleted. You can delete either your personal comments from 
 
 ---
 
-## What’s next?
+## What's next?
 
-> **&#8627; Let’s learn** [**how to moderate contributions**](moderate-contributions.html)
+> **&#8627; Let's learn** [**how to moderate contributions**](moderate-contributions.html)

@@ -6,7 +6,7 @@ subtitle: "High resolution pictures, videos, documents, and audio files can be a
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to add contributions**](add-new-contribution.html)
+> **&#8629; Let's head back and** [**find out how to add contributions**](add-new-contribution.html)
 
 ---
 
@@ -25,6 +25,7 @@ Multiple media files can be selected either manually, or by dragging and droppin
 Before the file is uploaded to our servers, it is added to a list of new files. You can change the name of a file, and add an optional description. Each file can then be uploaded individually or altogether.
 
 The following types of file type are supported by us:
+
 * ***Pictures***
 
 o	PNG
@@ -49,7 +50,7 @@ o	MP3
 
 ### Pictures
 
-Uploaded pictures appear on the list of media files straight away. They can be viewed when accessing the contribution’s media tab.
+Uploaded pictures appear on the list of media files straight away. They can be viewed when accessing the contribution's media tab.
 
 ![Upload a file](/images/en/upload-a-file.png)
 
@@ -61,14 +62,14 @@ Videos take time to process. Even though they are visible on videos that are upl
 
 ### Documents
 
-Documents (pdf) can be uploaded and viewed straight away. They can also be downloaded to your computer.
+*pdf* documents can be uploaded and viewed straight away. They can also be downloaded to your computer.
 
 ### Audio files
 
-All audio files are available to play straight away. However, 3gpp and 3gpp2 are converted to mp3 format due to browser compatibility.
+All audio files are available to play straight away. However, *3gpp* and *3gpp2* are converted to *mp3* format due to browser compatibility.
 
 ---
 
-## What’s next?
+## What's next?
 
-> **&#8627; Let’s learn** [**how to add comments to contributions**](add-comments.html)
+> **&#8627; Let's learn** [**how to add comments to contributions**](add-comments.html)
