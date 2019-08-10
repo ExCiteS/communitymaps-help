@@ -24,13 +24,13 @@ Seleziona uno o piu file multimediale o manualmente o trascinandoli nella zona c
 
 Prima che il file viene caricato, viene aggiunto ad una lista di file nuovi.  Si puo cambiare il nome del file, ed aggiungere una descrizione del contenuto.  I file possono essere caricati o uno ad uno o tutti insieme.
 
-![Caricare i file multimediali](/images/en/it/uploading-media-files.png)
+![Caricare i file multimediali](/images/it/uploading-media-files.png)
 
 ### Immagini
 
 Le immagini caricati compaiano subito sulla lista di file multimediali.  Per vederli, clicca sul tab multimedia del contributo.
 
-![Una lista degli immagini congiunti ad un contributo](/images/en/it/list-of-pictures.png)
+![Una lista degli immagini congiunti ad un contributo](/images/it/list-of-pictures.png)
 
 Il contributore di un contributo, o il moderatore, possono rimuovere e cancellare le immagini.  Una volta cancellati, non sara possible ricuperare i file.
 

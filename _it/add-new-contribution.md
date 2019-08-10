@@ -28,25 +28,25 @@ La forma può anche essere cambiata successivamente, quando il contributo e già
 
 Si usano i punti per rappresentare locali o cose piccoli - per esempio una fermata autobus o un monumento.  Si piazzano con un singolo clic del mouse sulla mappa.
 
-![Piazzando un punto sulla mappa](/images/en/it/placing-a-point.png)
+![Piazzando un punto sulla mappa](/images/it/placing-a-point.png)
 
 #### Linee
 
 Si usano le linee per rappresentare i percorsi, le strade, i muri etc.  Per creare una linea clicca sulla mappa per create una serie di punti che rappresenta la linea, finendo con un clic sull’ultimo punto.  I punti verranno connessi dal sistema per creare la linea.
 
-![Piazzando una linea sulla mappa](/images/en/it/drawing-a-line.png)
+![Piazzando una linea sulla mappa](/images/it/drawing-a-line.png)
 
 #### Forme/area/poligoni
 
 Si usano le area per rappresentare oggetti più grandi - per esempio edifici, parche, zone, distretti, laghi. Per creare un area, clicca sulla mappa per aggiungere una serie di punti, cliccando ancora sul primo punto per finire.  I punti verranno connessi dal sistema per creare l’area, che poi verra colorato.
 
-![Piazzando un area sulla mappa](/images/en/it/drawing-an-area.png)
+![Piazzando un area sulla mappa](/images/it/drawing-an-area.png)
 
 ### Fase 2: Scegliendo una categoria
 
 Sappiamo già che ogni contributo e associato ad una categoria, e quindi per la seconda fase si deve sceglierne una per il nuovo contributo.  La lista delle categorie elenca ogni categoria che si può usare per il progetto, e per ogni categoria quanti caselli ci sono da riempire nel modulo corrispondente.
 
-![Sciegliendo una categoria per il nuovo contributo](/images/en/it/contributing-choosing-a-category.png)
+![Sciegliendo una categoria per il nuovo contributo](/images/it/contributing-choosing-a-category.png)
 
 Quando selezioni una categoria, tutti i caselli diventano visibili sul modulo..
 
@@ -58,11 +58,11 @@ Per quest’ultima fase, si deve compilare il modulo..
 
 E possibile lasciare vuoto le caselle obbligatorie soltanto se il contributo e in stato di bozza.  In altri casi, ci sarà un messaggio errore e le caselle in cui manca l’informazione verranno evidenziate..
 
-![Caselle obbligatorie](/images/en/it/contributing-required-fields.png)
+![Caselle obbligatorie](/images/it/contributing-required-fields.png)
 
 Ci sono diversi tipi di caselle in un modulo: testo, numero, lista (selezionare una voce), lista (selezionare più voci), data e tempo.  Soltanto l’informazione del tipo richiesto dev’essere compilato nella casella, altrimenti ci sarà messaggio errore e la casella verrà evidenziata.
 
-![Caselle con errore](/images/en/it/contributing-invalid-fields.png)
+![Caselle con errore](/images/it/contributing-invalid-fields.png)
 
 Anche se l'impostazione di un progetto consente agli utenti anonimi di contributire i data, questi non possono salvare i data in stato di bozza - quello lo possono fare solo gli utenti registrati e loggati.  Contributi in stato di bozza possono essere completati in un tempo seguente.
 

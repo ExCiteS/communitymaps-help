@@ -20,7 +20,7 @@ I moderatori di un progetto hanno accesso a tutti i contributi del progetto, inc
 
 Se gli impostazioni di un progetto richiedono che tutti i contributi devono essere controllati da un moderatore, i contributi col stato ‘in attesa’ avranno un bottone con l’opzione ‘Approvare il contributo’.  I moderatori possono approvare i contributi premendo quel bottone.  Possono anche modificare il contributo sia prima che dopo l’approvazione.
 
-![Messaggio notificazione - contributo in stato ‘in attesa’](/images/en/it/pending-contribution-notification.png)
+![Messaggio notificazione - contributo in stato ‘in attesa’](/images/it/pending-contribution-notification.png)
 
 Una lista dei contributi in stato ‘in attesa’ sarà mandato ai moderatori ogni giorno, informandoli anche dei contributi per cui c'è stato una segnalazione.
 
@@ -30,7 +30,7 @@ Una lista dei contributi in stato ‘in attesa’ sarà mandato ai moderatori og
 
 Quando un contributo e stato segnalato, i moderatori devono risolvere la problema.  E possibile o modificare il contributo, o metterlo in stato ‘sospeso’.  Contributi in stato sospeso non sono disponibili al pubblico - soltanto la persona che ha creato il contributo può vederlo e risolvere la questione.
 
-![Messaggio notificazione - contributo ‘segnalato’](/images/en/it/reported-contribution-notification.png)
+![Messaggio notificazione - contributo ‘segnalato’](/images/it/reported-contribution-notification.png)
 
 Le segnalazione chiuse sono sempre visibile con gli altri commenti, e possono anche essere rimossi come se fossero commenti normali..
 

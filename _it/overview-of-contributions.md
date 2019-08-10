@@ -24,17 +24,17 @@ Si può visualizzare i contributi sulla mappa, e prendono la forma di un [area (
 
 Si usano i punti per rappresentare locali o cose piccoli - per esempio una fermata autobus o un monumento.  Apparano sulla mappa come simboli piccoli colorati con lo stesso colore del corrispondente categoria, o con un icono.
 
-![Un punto sulla mappa](/images/en/it/contribution-point.png)
+![Un punto sulla mappa](/images/it/contribution-point.png)
 
 Quando ci sono troppi punti nella stessa vicinanza, vengono raggruppati (in un *cluster*). Con ogni cluster c'è associato un numero che indica quanti punti ci sono nel cluster.  Facendo *zoom out* (diminuire la scala della mappa) il numero di cluster diventa meno.  Facendo *zoom in* (ingrandire la scala della mappa) il numero di cluster aumenta.
 
-![I cluster, raggruppando più punti](/images/en/it/clusters.png)
+![I cluster, raggruppando più punti](/images/it/clusters.png)
 
 ### Lines
 
 Si usano le linee per rappresentare i percorsi, le strade, i muri etc. Apparano sulla mappa nel colore della loro categoria.
 
-![Una linea sulla mappa](/images/en/it/contribution-line.png)
+![Una linea sulla mappa](/images/it/contribution-line.png)
 
 Per creare una linea clicca sulla mappa per create una serie di punti che rappresenta la linea, finendo con un clic sull’ultimo punto.  I punti verranno connessi dal sistema per creare la linea.
 
@@ -43,7 +43,7 @@ Per creare una linea clicca sulla mappa per create una serie di punti che rappre
 
 Si usano le aree per la mappatura di oggetti più grandi. Apparano sulla mappa nel colore della loro categorie.
 
-![Un’ area sulla mappa](/images/en/it/contribution-area.png)
+![Un’ area sulla mappa](/images/it/contribution-area.png)
 
 Il processo che si usa per disegnare un’area e molto simile a quello per una linea.  L’unico differenza e che per completare/chiudere l’area si deve cliccare ancora sul primo punto.
 
