@@ -1,7 +1,25 @@
 name: Community Maps Help
 
 collections:
+  bg:
+    output: true
+  ca:
+    output: true
+  de:
+    output: true
+  el:
+    output: true
   en:
     output: true
+  es:
+    output: true
+  fr:
+    output: true
   it:
+    output: true
+  mt:
+    output: true
+  pl:
+    output: true
+  pt:
     output: true
