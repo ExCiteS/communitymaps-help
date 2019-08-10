@@ -24,7 +24,7 @@ The first step is to click on the ‘Add contribution’ button and begin to dra
 
 To get the most accurate location for your contribution, zoom in on the map as closely as you can.
 
-![Draw a shape](/images/draw-a-shape.png)
+![Draw a shape](/images/en/draw-a-shape.png)
 
 Shapes drawn on the map **can** be changed and edited once a contribution has been added to the project.
 
@@ -32,25 +32,25 @@ Shapes drawn on the map **can** be changed and edited once a contribution has be
 
 Points are used for mapping single spots, such as bus stops or monuments. They are placed with a single mouse click anywhere on the map.
 
-![A point](/images/a-point.png)
+![A point](/images/en/a-point.png)
 
 #### Lines
 
 Lines are used for mapping paths, roads, etc. They are drawn by adding points alongside the path, and finished with a mouse click on the last point. Points are connected together automatically to form a single line.
 
-![A line](/images/a-line.png)
+![A line](/images/en/a-line.png)
 
 #### Areas
 
 Areas are used for mapping bigger objects, such as buildings, parks, lakes. They are drawn by adding points around an object and finished with a mouse click on the first point. Points are connected together automatically and the object is filled in with a colour to form an area.
 
-![An area](/images/an-area.png)
+![An area](/images/en/an-area.png)
 
 ### Step 2: Choosing a category
 
 As every contribution belongs to a category, the next step is to choose one for your new contribution. The list of categories shows all active categories that can be used and how many fields each category contains.
 
-![Categories list](/images/categories-list.png)
+![Categories list](/images/en/categories-list.png)
 
 When a category is selected, all the fields of that category are loaded to the form.
 
@@ -62,9 +62,9 @@ On the last step, a form must be filled in.
 
 There can be different fields on a form depending on the project: text field, number field, single lookup and multiple lookup fields, also date and time fields. Appropriate information must be provided for ‘required’, that is mandatory, fields, otherwise a notification is displayed and the field is highlighted.
 
-![Filling in form](/images/filling-in-form.png)
+![Filling in form](/images/en/filling-in-form.png)
 
-![Filling in date](/images/filling-in-date.png)
+![Filling in date](/images/en/filling-in-date.png)
 
 Anonymous users can only add contributions to the project, but registered users are allowed to save new contributions as a draft and modify them later. Draft contributions can be finished and added to the project later.
 

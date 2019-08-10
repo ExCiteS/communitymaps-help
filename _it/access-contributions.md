@@ -16,7 +16,7 @@ Quando e stato scelto un progetto, i contributi sono visibili sulla mappa.  Sapp
 
 Un contributo attivo viene evidenziato sulla mappa: se e un punto, si vede un cerchio giallo (hover) intorno, altrimenti il colore del contributo diventa un giallo luminoso..
 
-![Contributo evidenziato sulla mappa](/images/it/highlighted-point.png)
+![Contributo evidenziato sulla mappa](/images/en/it/highlighted-point.png)
 
 Quando si clicca su un contributo evidenziato, si sposta automaticamente al centro della mappa.  Cliccando da qualche altra parte sulla mappa si torna al progetto.  .
 
@@ -26,7 +26,7 @@ Quando si clicca su un contributo evidenziato, si sposta automaticamente al cent
 
 Sappiamo già che ogni contributo appartiene ad una categoria, e che per ogni categoria usiamo un simbolo e/o un colore diverso per distinguerli sulla mappa.  Si può vedere i simboli che corrispondono a ogni categoria sulla lista delle categorie..
 
-![Una lista delle categorie](/images/it/categories-list.png)
+![Una lista delle categorie](/images/en/it/categories-list.png)
 
 Ogni categoria può essere resa visibile o invisibile (attivato/disattivato) sulla mappa cliccando nell’apposito casella di spunta.  Questo si chiama *filtrare per categoria*.
 
@@ -49,7 +49,7 @@ I sottoinsiemi (subsets) sono liste/scelte predefinite per visualizzare i contri
 
 Se per un progetto esistono i sottoinsiemi predefinite, sono elencati vicino alla casella “ricerca”.
 
-![Una lista dei sottoinsiemi (subsets)](/images/it/subsets-list.png)
+![Una lista dei sottoinsiemi (subsets)](/images/en/it/subsets-list.png)
 
 ---
 
@@ -59,7 +59,7 @@ I contributi visibili sulla mappa sono elencati nella lista dei contributi.  Que
 
 Quando si cerca i contributi che corrispondo a un termine specifico, il termine e evidenziato nei risultati, e soltanto i contributi che combaciano ai criteri di ricerca sono elencati sulla lista (e visibili sulla mappa).
 
-![Cercando contributi specifci](/images/it/search-for-contributions.png)
+![Cercando contributi specifci](/images/en/it/search-for-contributions.png)
 
 ---
 

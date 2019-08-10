@@ -45,13 +45,13 @@ o	PDF
 
 o	MP3
 
-![Media files](/images/media-files.png)
+![Media files](/images/en/media-files.png)
 
 ### Pictures
 
 Uploaded pictures appear on the list of media files straight away. They can be viewed when accessing the contribution’s media tab.
 
-![Upload a file](/images/upload-a-file.png)
+![Upload a file](/images/en/upload-a-file.png)
 
 The creator of a contribution or moderator of the whole project can delete uploaded pictures at any time. Once deleted, pictures cannot be recovered.
 

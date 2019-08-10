@@ -14,7 +14,7 @@ subtitle: "I contributi possono essere modificati anche Once added to the projec
 
 Puoi modificare i tuoi contributi (o tutti i contributi di un progetto, se sei un moderatore) quando volete.
 
-![Nuovo contributo](/images/it/added-contribution.png)
+![Nuovo contributo](/images/en/it/added-contribution.png)
 
 Quando fai una modifica, si può cambiare la forma di un contributo, spostarlo in qualche altro luogo, cambiare, aggiungere o rimuovere i data.  La categoria del contributo non può essere cambiata.
 
@@ -24,7 +24,7 @@ Quando fai una modifica, si può cambiare la forma di un contributo, spostarlo i
 
 Puoi anche rimuovere i tuoi contributi.
 
-![Messaggio conferma  - rimuovere un contributo](/images/it/delete-contribution-confirmation.png)
+![Messaggio conferma  - rimuovere un contributo](/images/en/it/delete-contribution-confirmation.png)
 
 Una volta rimossa un contributo, non si può tornare in dietro.  Sono rimossi anche i file multimediali ed i commenti del contributo.
 

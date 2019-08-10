@@ -14,7 +14,7 @@ subtitle: "Contributions can be accessed in various different ways: clicking the
 
 Contributions appear on the map and are visible either as the shape of a [point](overview-of-contributions.html#points), a [line](overview-of-contributions.html#lines), or an [area](overview-of-contributions.html#areas). Every shape is a hyperlink to that contribution.
 
-![Hot to use the map](/images/how-to-use-the-map.png)
+![Hot to use the map](/images/en/how-to-use-the-map.png)
 
 ---
 
@@ -24,7 +24,7 @@ We already know that every contribution belongs to a category, and every categor
 
 ## Categories
 
-![Filter categories list](/images/filter-categories-list.png)
+![Filter categories list](/images/en/filter-categories-list.png)
 
 Every category can be checked or unchecked. That’s how contributions on the map are toggled - this is called *filtering by categories*.
 
@@ -34,7 +34,7 @@ You can also filter contributions to view those that are active, in review, pend
 
 You can also use sub-categories to help you further filter and find more specific contributions on the map. Once you select the subcategory that is most relevant to what you’re looking for, they will appear on the map.
 
-![Subcategories](/images/subcategories.png)
+![Subcategories](/images/en/subcategories.png)
 
 ---
 
@@ -55,7 +55,7 @@ Subsets are predefined filters for displaying contributions. They display contri
 
 If a project has any subsets available, a list of them is displayed next to the search input.
 
-![Subsets](/images/subsets.png)
+![Subsets](/images/en/subsets.png)
 
 ---
 
@@ -65,17 +65,17 @@ Contributions on the map, are viewed in a list on the map legend and show the di
 
 When searching for specific contributions, the found term is highlighted, and only contributions that match the search criteria are displayed on a list (also on the map).
 
-![Search contributions](/images/search-contributions.png)
+![Search contributions](/images/en/search-contributions.png)
 
 ## Location Search
 
 When you’re searching for a contribution, you can also use the location search option to help show the most relevant search results in a specific area.
 
-![Location search](/images/location-search.png)
+![Location search](/images/en/location-search.png)
 
 For example, if you were interested in seeing the contributions in the Central London area, you could search Piccadilly Circus and you’ll see the ones that are nearby.
 
-![Finding a location](/images/finding-a-location.png)
+![Finding a location](/images/en/finding-a-location.png)
 
 ---
 
@@ -85,7 +85,7 @@ The map, makes it easy for you to share contributions.
 
 To share a contribution, you will need to select it on the map, copy the url at the top and send it. Simple!
 
-![Zoom in on map](/images/zoom-in-on-map.png)
+![Zoom in on map](/images/en/zoom-in-on-map.png)
 
 *Please note* - When you share it, they will receive it exactly how you view it. So if you are too zoomed in or zoomed out they will see it as that as well.
 

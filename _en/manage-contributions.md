@@ -14,7 +14,7 @@ subtitle: "Once a contribution has been added to the project, contributions can 
 
 You can edit your own contributions (or all contributions, if you’re a moderator of the project), at any time.
 
-![Edit contribution](/images/edit-contribution.PNG)
+![Edit contribution](/images/en/edit-contribution.PNG)
 
 When editing a contribution, you can change its shape on the map, move its location and add or remove all its text information. The selected category cannot be changed and will always stays the same.
 
@@ -24,7 +24,7 @@ When editing a contribution, you can change its shape on the map, move its locat
 
 Deletion of personal contributions is also available.
 
-![Delete contribution](/images/delete-contribution.png)
+![Delete contribution](/images/en/delete-contribution.png)
 
 Once deleted, contributions **cannot** be recovered. All media files and comments associated with each contribution are deleted too.
 
