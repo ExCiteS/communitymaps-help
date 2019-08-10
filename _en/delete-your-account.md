@@ -9,19 +9,19 @@ subtitle: "*Please note* - When you delete your account, your profile will be pe
 
 Go to your account which should be *listed as your username*. If you’re not logged into the map, you’ll be asked to log in first. Select ‘Edit your info’ from the drop-down list.
 
-![delete-account-edit-your-info](/images/delete-account-edit-your-info.PNG)
+![Delete account edit your info](/images/delete-account-edit-your-info.PNG)
 
 ---
 
 Click ‘delete account’ on your profile page.
 
-![delete-account-button](/images/delete-account-button.png)
+![Delete account button](/images/delete-account-button.png)
 
 ---
 
 Once you have read over the terms, click ‘delete my account’ and your account will be permanently removed.
 
-![delete-account-final](/images/delete-account-final.png)
+![Delete account final](/images/delete-account-final.png)
 
 ---
 

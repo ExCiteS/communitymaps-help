@@ -18,7 +18,7 @@ Each contribution has a comments section, where everyone can discuss it. Comment
 * ***Yellow*** - responses to comments.
 * ***Green*** - your personal comments.
 
-![comments](/images/comments.png)
+![Comments](/images/comments.png)
 
 There are also ***orange*** comments which indicate that an issue has been reported.
 
@@ -28,7 +28,7 @@ There are also ***orange*** comments which indicate that an issue has been repor
 
 When something is not right with a contribution, anyone can inform administrators and moderators of the issue. Contributions are not visible to the public, until all the issues have been resolved.
 
-![reporting](/images/reporting.png)
+![Reporting](/images/reporting.png)
 
 ---
 
