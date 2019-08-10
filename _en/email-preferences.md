@@ -29,6 +29,6 @@ If you are having trouble using the map and need to contact us, simply click on 
 
 ---
 
-## That's it!
+## What's next?
 
-> **&#8627;** [**Go back to the home page**](index.html)
+> **&#8627; Let's learn** [**how to delete your account**](delete-your-account.html)

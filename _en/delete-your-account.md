@@ -10,13 +10,9 @@ Go to your account which should be *listed as your username*. If you're not logg
 
 ![Delete account edit your info](/images/en/delete-account-edit-your-info.PNG)
 
----
-
 Click 'delete account' on your profile page.
 
 ![Delete account button](/images/en/delete-account-button.png)
-
----
 
 Once you have read over the terms, click 'delete my account' and your account will be permanently removed.
 
