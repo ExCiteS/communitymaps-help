@@ -11,4 +11,4 @@ Mapping for Change non reclama diritti di proprietà dei materiali forniti dall'
 
 ---
 
-Per qualsiasi richiesta di informazioni contattaci all'indirizzo[help@communitymaps.org.uk](mailto:help@communitymaps.org.uk) or Mapping for Change a [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk).
+Per qualsiasi richiesta di informazioni contattaci all'indirizzo[info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk) or Mapping for Change a [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk).

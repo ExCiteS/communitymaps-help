@@ -16,4 +16,4 @@ subtitle: "Mappatura partecipativa con la nostra piattaforma non è mai stato co
 
 ## Ulteriori informazioni
 
-Se avete bisogno di ulteriori informazioni su come utilizzare Community Maps - la piattaforma di mappatura partecipativa, non esitate a contattarci al [help@communitymaps.org.uk] (mailto: help@communitymaps.org.uk).
+Se avete bisogno di ulteriori informazioni su come utilizzare Community Maps - la piattaforma di mappatura partecipativa, non esitate a contattarci al [info@mappingforchange.org.uk](mailto: info@mappingforchange.org.uk).
