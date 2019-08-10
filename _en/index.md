@@ -4,11 +4,6 @@ title: "Learn and improve"
 subtitle: "Participatory mapping with our platform has never been so easy."
 ---
 
-## Account
-
-> * [Email preferences](email-preferences.html)
-> * [Delete your account](delete-your-account.html)
-
 ## Contributions
 
 > * [Overview of contributions](overview-of-contributions.html)
@@ -18,6 +13,11 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 > * [Add comments](add-comments.html)
 > * [Manage contributions](manage-contributions.html)
 > * [Moderate contributions](moderate-contributions.html)
+
+## Account
+
+> * [Email preferences](email-preferences.html)
+> * [Delete your account](delete-your-account.html)
 
 ## Other assistance
 
