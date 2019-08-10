@@ -6,15 +6,15 @@ subtitle: "Participatory mapping with our platform has never been so easy."
 
 ## Contributions
 
-> * [Overview of contributions](overview-of-contributions.md)
-> * [Access contributions](access-contributions.md)
-> * [Add new contribution](add-new-contribution.md)
-> * [Upload media files](upload-media-files.md)
-> * [Add comments](add-comments.md)
-> * [Manage contributions](manage-contributions.md)
-> * [Moderate contributions](moderate-contributions.md)
-> * [Email preferences](email-preferences.md)
-> * [Delete your account](delete-your-account.md)
+> * [Overview of contributions](overview-of-contributions.html)
+> * [Access contributions](access-contributions.html)
+> * [Add new contribution](add-new-contribution.html)
+> * [Upload media files](upload-media-files.html)
+> * [Add comments](add-comments.html)
+> * [Manage contributions](manage-contributions.html)
+> * [Moderate contributions](moderate-contributions.html)
+> * [Email preferences](email-preferences.html)
+> * [Delete your account](delete-your-account.html)
 
 ## Other assistance
 

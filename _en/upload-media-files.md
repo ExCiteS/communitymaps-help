@@ -6,7 +6,7 @@ subtitle: "High resolution pictures, videos, documents, and audio files can be a
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to add contributions**](add-new-contribution.md)
+> **&#8629; Let’s head back and** [**find out how to add contributions**](add-new-contribution.html)
 
 ---
 
@@ -71,4 +71,4 @@ All audio files are available to play straight away. However, 3gpp and 3gpp2 are
 
 ## What’s next?
 
-> **&#8627; Let’s learn** [**how to add comments to contributions**](add-comments.md)
+> **&#8627; Let’s learn** [**how to add comments to contributions**](add-comments.html)

@@ -6,7 +6,7 @@ subtitle: "Every contribution can be discussed using the internal commenting sec
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out how to upload media files**](upload-media-files.md)
+> **&#8629; Let’s head back and** [**find out how to upload media files**](upload-media-files.html)
 
 ---
 
@@ -34,4 +34,4 @@ When something is not right with a contribution, anyone can inform administrator
 
 ## What’s next?
 
-> **&#8627; Let’s learn** [**how to manage contributions**](manage-contributions.md)
+> **&#8627; Let’s learn** [**how to manage contributions**](manage-contributions.html)

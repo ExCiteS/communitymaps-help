@@ -6,7 +6,7 @@ subtitle: "Contributions can be accessed in various different ways: clicking the
 
 ## Feeling lost?
 
-> **&#8629; Let’s head back and** [**find out what contributions are**](overview-of-contributions.md)
+> **&#8629; Let’s head back and** [**find out what contributions are**](overview-of-contributions.html)
 
 ---
 
@@ -93,4 +93,4 @@ To share a contribution, you will need to select it on the map, copy the url at 
 
 ## What’s next?
 
-> **&#8627; Let’s learn** [**how to add contributions**](add-new-contribution.md)
+> **&#8627; Let’s learn** [**how to add contributions**](add-new-contribution.html)

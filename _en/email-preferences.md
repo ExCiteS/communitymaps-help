@@ -32,4 +32,4 @@ If you are having trouble using the map and need to contact us, simply click on 
 
 ## That's it!
 
-> **&#8627;** [**Go back to the home page**](index.md)
+> **&#8627;** [**Go back to the home page**](index.html)

@@ -25,4 +25,4 @@ Once you have read over the terms, click ‘delete my account’ and your accoun
 
 ---
 
-> **&#8627;** [**Go back to the home page**](index.md)
+> **&#8627;** [**Go back to the home page**](index.html)

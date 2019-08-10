@@ -10,9 +10,9 @@ Each project has categories, and every category has contributions which have bee
 
 Contributions are added by contributors of a project. If project’s settings allow it, every person accessing that project can be a contributor.
 
-> * [Find out how to add contributions](add-new-contribution.md)
-> * [Find out how to upload images and videos to your contributions](upload-media-files.md)
-> * [Find out how to add comments to any contributions](add-comments.md)
+> * [Find out how to add contributions](add-new-contribution.html)
+> * [Find out how to upload images and videos to your contributions](upload-media-files.html)
+> * [Find out how to add comments to any contributions](add-comments.html)
 
 ---
 
@@ -50,4 +50,4 @@ Drawing an area is very similar to drawing a line. The only difference is that t
 
 ## What’s next?
 
-> **&#8627; Let’s learn** [**how to access contributions**](access-contributions.md)
+> **&#8627; Let’s learn** [**how to access contributions**](access-contributions.html)
