@@ -22,7 +22,7 @@ We want to provide you with the best user experience when using our site so coll
 ## How we use your personal information
 
 We will use your personal data to:
-- Verify your identity and validate your Community Maps registration. 
+- Verify your identity and validate your Community Maps registration.
 - To enable you to log-in and access or contribute to Community Maps.
 - To ensure that you receive feedback and responses to matters that you have raised.
 - To ensure that content from our site is presented in the most effective manner for you and for your computer.
@@ -30,7 +30,7 @@ We will use your personal data to:
 - To allow you to participate in interactive features of our service, when you choose to do so.
 - To notify you about changes to our service.
 
-## Who we share your personal information with 
+## Who we share your personal information with
 
 We will share personal information with law enforcement or other authorities if required by applicable law. We limit access to your personal information to third-party services for the operation of our service. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality.
 

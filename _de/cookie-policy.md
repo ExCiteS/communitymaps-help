@@ -12,7 +12,7 @@ Cookies sind kleine Textdateien, die automatisch auf Ihrem Computer oder mobilen
 ## Welche Cookies verwenden wir?
 
 Wir verwenden einige Cookies, die nötig sind, um Ihnen den Zugriff auf unsere Seiten und deren Navigation zu erleichtern, und um Ihnen zu ermöglichen alle Funktionen zu nutzen. Ohne diese Cookies würden unsere Websites nicht ordnungsgemäß funktionieren und Sie könnten bestimmte wichtige Funktionen nicht nutzen. Wir verwenden auch Cookies, um zu verstehen, wie unsere Website genutzt wird und wie wir Ihr Erlebnis verbessern können. Die Cookies geben uns anonyme Informationen, die uns helfen zu verstehen, welche Teile unserer Website für unsere Besucher von größtem Interesse sind, und überwacht, wie unsere Besucher uns erreichen.
- 
+
 Unsere Cookies helfen uns:
 - Damit unsere Websites so funktionieren, wie Sie es erwarten
 - Damit Sie sich nicht jedes Mal wieder anmelden müssen, wenn Sie die Websites oder einzelne Seiten besuchen
@@ -21,29 +21,29 @@ Unsere Cookies helfen uns:
 - Damit Sie Seiten mit sozialen Netzwerken wie Facebook teilen können
 - Kontinuierlich unsere Websites für Sie zu verbessern
 - Unser Marketing effizienter zu gestalten
- 
+
 Wir verwenden keine Cookies, um:
 - Personenbezogene Daten (ohne Ihre ausdrückliche Zustimmung) zu sammeln
 - Sensible Informationen (ohne Ihre ausdrückliche Genehmigung) zu sammeln
 - Daten an Werbenetzwerke weiterzugeben
 - Personenbezogene Daten an Dritte weiterzuleiten
 - Verkaufsprovisionen zu bezahlen
- 
+
 Wir verwenden Cookies, um die Funktion unserer Website zu gewährleisten, einschließlich:
 - Bestimmung, ob Sie angemeldet sind oder nicht
 - Speichern Ihrer Sucheinstellungen
 - Ihnen ermöglichen, Kommentare zu unserer Website hinzuzufügen
- 
+
 ## Ihre Zustimmung
 
 Wenn die Einstellungen Ihrer Software, die Sie zum Anzeigen unserer Websites verwenden (Ihr Browser), so eingerichtet sind, dass sie Cookies akzeptieren, sehen wir dies und Ihre weitere Nutzung unserer Websites als Ihre Zustimmung. Wenn Sie Cookies von unseren Websites entfernen oder nicht verwenden möchten, können Sie im Folgenden erfahren, wie Sie dies tun können, was jedoch wahrscheinlich dazu führen wird, dass unsere Websites nicht wie von Ihnen erwartet funktionieren.
- 
+
 ## Wie kann ich meine Cookie-Einstellungen ändern?
 
 Die meisten Webbrowser erlauben eine gewisse Kontrolle der meisten Cookies über die Browsereinstellungen. Weitere Informationen über Cookies, einschließlich Informationen darüber, welche Cookies gesetzt wurden und wie Sie diese verwalten und löschen können, finden Sie unter www.aboutcookies.org oder www.allaboutcookies.org.
 
 Um sich von dem Tracking durch Google Analytics auf allen Websites auszuschließen, besuchen Sie http://tools.google.com/dlpage/gaoptout.
- 
+
 ## Cookies auf unseren Webseiten
 
 | Domain | Cookie Name | Zweck |

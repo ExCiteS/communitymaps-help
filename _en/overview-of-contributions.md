@@ -22,7 +22,7 @@ Added contributions can be visible on the map: either as the shape of an [area](
 
 ### Points
 
-Points are used for mapping single spots on the map; They are usually identified with a bespoke icon and are the same colour as the category used. 
+Points are used for mapping single spots on the map; They are usually identified with a bespoke icon and are the same colour as the category used.
 
 ![overview-map](/images/overview-map.png)
 

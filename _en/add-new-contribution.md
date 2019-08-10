@@ -54,7 +54,7 @@ As every contribution belongs to a category, the next step is to choose one for 
 
 When a category is selected, all the fields of that category are loaded to the form.
 
-Please note that the chosen category **cannot** be edited once a contribution has been added to the project, but any of the details can be changed at any point. 
+Please note that the chosen category **cannot** be edited once a contribution has been added to the project, but any of the details can be changed at any point.
 
 ### Step 3: Completing a form
 

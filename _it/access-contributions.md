@@ -45,7 +45,7 @@ Per i contributi, ci sono quattro stati:
 
 ## Applicare i sottoinsiemi (subsets)
 
-I sottoinsiemi (subsets) sono liste/scelte predefinite per visualizzare i contribuiti.  Per esempio si può visualizzare soltanto i contributi aggiunti tra una data ed un altra. 
+I sottoinsiemi (subsets) sono liste/scelte predefinite per visualizzare i contribuiti.  Per esempio si può visualizzare soltanto i contributi aggiunti tra una data ed un altra.
 
 Se per un progetto esistono i sottoinsiemi predefinite, sono elencati vicino alla casella “ricerca”.
 
@@ -66,5 +66,3 @@ Quando si cerca i contributi che corrispondo a un termine specifico, il termine 
 ## Il tutorial seguente:
 
 > **&#8627; Impariamo** [**come si aggiunge un nuovo contributo**](add-new-contribution.html)
-
-

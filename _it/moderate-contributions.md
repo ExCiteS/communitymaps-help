@@ -12,7 +12,7 @@ subtitle: "Controllare i contributi prima di pubblicarli sulla mappa."
 
 ## Che possono fare i moderatori?
 
-I moderatori di un progetto hanno accesso a tutti i contributi del progetto, incluso quelli ‘in attesa’ che non sono ancora stati approvati e non sono visibile agli atri utenti.  E il compito dei moderatori controllare ed approvare i contributi ed anche risolvere le segnalazioni. 
+I moderatori di un progetto hanno accesso a tutti i contributi del progetto, incluso quelli ‘in attesa’ che non sono ancora stati approvati e non sono visibile agli atri utenti.  E il compito dei moderatori controllare ed approvare i contributi ed anche risolvere le segnalazioni.
 
 ---
 
@@ -22,7 +22,7 @@ Se gli impostazioni di un progetto richiedono che tutti i contributi devono esse
 
 ![Messaggio notificazione - contributo in stato ‘in attesa’](/images/it/pending-contribution-notification.png)
 
-Una lista dei contributi in stato ‘in attesa’ sarà mandato ai moderatori ogni giorno, informandoli anche dei contributi per cui c'è stato una segnalazione. 
+Una lista dei contributi in stato ‘in attesa’ sarà mandato ai moderatori ogni giorno, informandoli anche dei contributi per cui c'è stato una segnalazione.
 
 ---
 
@@ -42,4 +42,3 @@ Le segnalazione chiuse sono sempre visibile con gli altri commenti, e possono an
 
 
 ---
-

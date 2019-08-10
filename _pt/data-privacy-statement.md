@@ -53,15 +53,15 @@ De acordo com o [Regulamento Geral de Proteção de Dados](https://eur-lex.europ
 - objetar a decisões tomadas por meios automatizados que produzem efeitos legais a seu respeito ou o afetem de alguma maneira
 - objetar em outras situações para o processamento contínuo das suas informações pessoais
 - de outra forma restringir o processamento de informações pessoais em determinadas circunstâncias.
- 
+
 Para obter mais informações sobre cada um desses direitos, inclusive as circunstâncias em que se aplicam, consulte o [Regulamento Geral de Proteção de Dados](https://protecao-dados.pt/o-regulamento/).
- 
+
 Se necessitar de exercer algum desses direitos, por favor:
 - envie email (info @ mappingforchange.org.uk), ou escreva para nós
 - deve-nos dar informações suficientes para o identificar
 - Deve apresentar uma prova da sua identidade e endereço (uma cópia da sua carta de condução ou passaporte e uma conta recente de serviços públicos ou de cartão de crédito), e
 - informe-nos sobre as informações relacionadas com o seu pedido.
- 
+
 Poderá descobrir se possuímos qualquer informação pessoal sobre si, fazendo uma 'solicitação de acesso de assunto' sob a Lei de Proteção de Dados de 1998. Qualquer solicitação de acesso pode estar sujeita a uma taxa de £10 para cobrir os nossos custos ao fornecer detalhes sobre a informações que solicitou.
 
 ## Mantendo as suas informações pessoais seguras

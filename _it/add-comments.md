@@ -26,7 +26,7 @@ I commenti in ***arancia*** indicano segnalazioni.
 ## Che cosa sono le segnalazioni?
 
 
-Quando c'e qualcosa che non va con un contributo, tutti hanno il diritto d'informare gli amministratori e moderatori del progetto al riguardo. I contributi sono sempre visibile al pubblico ma possono essere sospesi fino a che i problemi non sono stati risolti. 
+Quando c'e qualcosa che non va con un contributo, tutti hanno il diritto d'informare gli amministratori e moderatori del progetto al riguardo. I contributi sono sempre visibile al pubblico ma possono essere sospesi fino a che i problemi non sono stati risolti.
 
 ![Fare una segnalazione](/images/it/reporting-contribution.png)
 

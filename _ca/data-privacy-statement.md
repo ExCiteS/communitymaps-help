@@ -60,7 +60,7 @@ Si desitja exercir algun d’aquests drets, si us plau:
 - Deixi’ns tenir coneixement de la seva identitat i direcció (una còpia del seu document d’identitat o passaport i una factura recent de serveis públics o targeta de crèdit)
 - Faci’ns saber la informació a la que es refereix a la seva sol·licitud
 
-Pot saber si tenim alguna informació personal sobre vostè fent una “sol·licitud d’accés subjecte” d’acord amb la Llei de Protecció de Dades de 1998. 
+Pot saber si tenim alguna informació personal sobre vostè fent una “sol·licitud d’accés subjecte” d’acord amb la Llei de Protecció de Dades de 1998.
 
 ## Mantenint la seva informació personal segura
 
@@ -68,7 +68,7 @@ Comptem amb les mesures de seguretat adequades per evitar que la informació per
 
 ## On emmagatzemarem les seves dades personals
 
-Les dades que recollirem sobre vostè poden ser transferides i emmagatzemades en un destí extern a l’Espai Econòmic Europeu. També poden ser processades per personal que opera fora del EEE i que treballa per a nosaltres o per a un dels nostres proveïdors de serveix externs. Al enviar les seves dades personals, vostè accepta aquesta transferència, emmagatzematge o processament. Prendrem totes les mesures raonablement necessàries per assegurar que les seves dades siguin tractades de forma segura i d’acord amb aquesta política de privacitat. 
+Les dades que recollirem sobre vostè poden ser transferides i emmagatzemades en un destí extern a l’Espai Econòmic Europeu. També poden ser processades per personal que opera fora del EEE i que treballa per a nosaltres o per a un dels nostres proveïdors de serveix externs. Al enviar les seves dades personals, vostè accepta aquesta transferència, emmagatzematge o processament. Prendrem totes les mesures raonablement necessàries per assegurar que les seves dades siguin tractades de forma segura i d’acord amb aquesta política de privacitat.
 
 Quan vostè escull una contrasenya que li permet accedir a certes àrees del nostre lloc web, esdevé responsable de mantenir la confidencialitat d’aquesta contrasenya. No la comparteixi amb ningú i no utilitzi una contrasenya que ja hagi fet servir abans per entrar a altres llocs web o serveis.
 

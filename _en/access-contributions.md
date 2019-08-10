@@ -42,12 +42,12 @@ You can also use sub-categories to help you further filter and find more specifi
 
 To manage the contributions, we use four statuses:
 
-* ***Active*** - contributions which are visible to everyone 
+* ***Active*** - contributions which are visible to everyone
 * ***Pending*** - contributions with this status can be seen only by their creators or the map moderators. Contributions can be pending either when a project settings require all newly added contributions to be checked by moderators before allowing them to be accessible, or when an issue has been reported and the moderator has decided to suspend the contribution.
 * ***Review*** - publicly visible contributions but with an issue reported by someone.
 * ***Draft*** - only creators can see unfinished and publicly inaccessible contributions.
 
---- 
+---
 
 ## Apply subsets
 
@@ -69,7 +69,7 @@ When searching for specific contributions, the found term is highlighted, and on
 
 ## Location Search
 
-When you’re searching for a contribution, you can also use the location search option to help show the most relevant search results in a specific area. 
+When you’re searching for a contribution, you can also use the location search option to help show the most relevant search results in a specific area.
 
 ![location-search](/images/location-search.png)
 

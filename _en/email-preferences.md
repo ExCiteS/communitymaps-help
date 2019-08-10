@@ -17,7 +17,7 @@ You will be taken to a page where you can view and make changes to your email pr
 
 ![manage-email-preferences](/images/manage-email-preferences.png)
 
-Once you’ve finished, scroll down to the bottom and select ‘save settings’. 
+Once you’ve finished, scroll down to the bottom and select ‘save settings’.
 
 ![save-email-preferences](/images/save-email-preferences.png)
 

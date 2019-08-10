@@ -16,7 +16,7 @@ Puoi modificare i tuoi contributi (o tutti i contributi di un progetto, se sei u
 
 ![Nuovo contributo](/images/it/added-contribution.png)
 
-Quando fai una modifica, si può cambiare la forma di un contributo, spostarlo in qualche altro luogo, cambiare, aggiungere o rimuovere i data.  La categoria del contributo non può essere cambiata. 
+Quando fai una modifica, si può cambiare la forma di un contributo, spostarlo in qualche altro luogo, cambiare, aggiungere o rimuovere i data.  La categoria del contributo non può essere cambiata.
 
 ---
 
@@ -45,5 +45,3 @@ Puoi rimuovere i tuoi commenti da qualunque contributo, e puoi anche rimuovere q
 ## Il tutorial seguente:
 
 > **&#8627; Impariamo** [**come moderare i contributi**](moderate-contributions.html)
-
-
