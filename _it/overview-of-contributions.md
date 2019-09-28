@@ -1,54 +1,53 @@
 ---
 layout: italian
-title: "Che cosa sono i contributi?"
-subtitle: "Tutti i contributi contengono informazione/dati - testo, file multimediali, commenti."
+title: "Panoramica dei contributi"
+subtitle: "Ogni contributo aggiunto alla mappa contiene una serie di dati: informazioni testuali, file multimediali e commenti."
 ---
 
-## Che cosa sono i contributi?
+## Cosa sono i contributi?
 
-Ogni progetto contiene una o piu categorie, e ogni categoria contiene i contributi che sono stati aggiunti al progetto.  Il contributo consiste di (e composto da) testo, immagini, audio, video e commenti.
+Ogni progetto ha delle categorie e ciascuna di esse contiene dei contributi che sono stati aggiunti a tale progetto. Anche in questo caso, ogni contributo può contenere informazioni testuali, immagini, file audio e video, commenti.
 
-I contributori ad un progetto sono quelli che aggiungono i contributi.  Se e permesso dalle impostazioni del progetto, tutti quelli che accedono al progetto possono essere contributori..
+I contributi vengono aggiunti dai collaboratori di un progetto. Se le impostazioni del progetto lo consentono, ogni persona che accede al progetto può diventare un collaboratore.
 
-> * [Scopri come si aggiunge un nuovo contributo](add-new-contribution.html)
-> * [Scopri come si carica un immagine o un video per un contributo](upload-media-files.html)
-> * [Scopri come si aggiunge un commento ad un contributo](add-comments.html)
+> * [Scopri come aggiungere i contributi](add-new-contribution.html)
+> * [Scopri come caricare immagini e video ai contributi](upload-media-files.html)
+> * [Scopri come aggiungere commenti a qualsiasi contributo](add-comments.html)
 
 ---
 
-## In cosa consiste un contributo?
+## Come si presentano?
 
-Si può visualizzare i contributi sulla mappa, e prendono la forma di un [area (poligono)], una [linea](#lines), o un [punto](#points).
+I contributi aggiunti possono essere visibili sulla mappa: o sottoforma di [un'area](#areas), una [linea](#lines), o un semplice [punto](#points).
 
 ### Punti
 
-Si usano i punti per rappresentare locali o cose piccoli - per esempio una fermata autobus o un monumento.  Apparano sulla mappa come simboli piccoli colorati con lo stesso colore del corrispondente categoria, o con un icono.
+I punti sono utilizzati per la mappatura di singoli elementi sulla mappa; solitamente vengono identificati con un'icona personalizzata e sono dello stesso colore della categoria utilizzata.
 
-![Un punto sulla mappa](/images/it/contribution-point.png)
+![Mappa generale](/images/en/overview-map.png)
 
-Quando ci sono troppi punti nella stessa vicinanza, vengono raggruppati (in un *cluster*). Con ogni cluster c'è associato un numero che indica quanti punti ci sono nel cluster.  Facendo *zoom out* (diminuire la scala della mappa) il numero di cluster diventa meno.  Facendo *zoom in* (ingrandire la scala della mappa) il numero di cluster aumenta.
+Quando sono presenti troppi punti uno accanto all'altro, vengono raggruppati in *cluster*. Il numero su ogni cluster indica quanti punti sono raggruppati insieme e il colore di un cluster indica le categorie a cui appartengono. Quando si riduce lo zoom, i punti vengono assegnati ad un minor numero di cluster. Se si esegue l'ingrandimento, appariranno più cluster.
 
-![I cluster, raggruppando più punti](/images/it/clusters.png)
+![Mappa dei cluster](/images/en/map-cluster.png)
 
-### Lines
+### Linee
 
-Si usano le linee per rappresentare i percorsi, le strade, i muri etc. Apparano sulla mappa nel colore della loro categoria.
+Le linee vengono utilizzate per la mappatura di sentieri, strade, ecc... Una volta selezionate, appariranno nel colore della categoria selezionata.
 
-![Una linea sulla mappa](/images/it/contribution-line.png)
+![Disegna una linea](/images/en/draw-a-line.png)
 
-Per creare una linea clicca sulla mappa per create una serie di punti che rappresenta la linea, finendo con un clic sull’ultimo punto.  I punti verranno connessi dal sistema per creare la linea.
+Quando si disegna una linea su una mappa, i punti vengono aggiunti accanto al percorso. Questi punti sono quindi collegati tra loro in modo da formare un'unica linea. La forma verrà completata con un clic del mouse sull'ultimo punto.
 
+### Aree
 
-### Aree/poligoni
+Per la rappresentazione di oggetti più grandi sulla mappa, come ad esempio uno spazio verde, vengono utilizzate delle aree. Una volta visualizzate, appariranno inoltre nel colore della categoria selezionata.
 
-Si usano le aree per la mappatura di oggetti più grandi. Apparano sulla mappa nel colore della loro categorie.
+![Disegna un'area](/images/en/draw-an-area.png)
 
-![Un’ area sulla mappa](/images/it/contribution-area.png)
-
-Il processo che si usa per disegnare un’area e molto simile a quello per una linea.  L’unico differenza e che per completare/chiudere l’area si deve cliccare ancora sul primo punto.
+Disegnare un'area è molto somigliante al disegnare una linea. L'unica differenza è che l'ultimo punto della forma corrisponde al primo punto inserito. Anche le aree hanno lo stesso colore di sfondo della categoria scelta.
 
 ---
 
-## Il tutorial seguente:
+## Che succede ora?
 
-> **&#8627; Impariamo**[**come accedere ai contributi**](access-contributions.html)
+> **&#8627; Impariamo** [**come accedere ai contributi**](access-contributions.html)

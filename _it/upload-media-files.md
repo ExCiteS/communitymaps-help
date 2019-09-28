@@ -1,49 +1,75 @@
 ---
 layout: italian
-title: "Caricare i file multimediali"
-subtitle: "Immagini ad alta risoluzione, video, anche i file audio possono essere collegati ad ogni contributo."
+title: "Caricare file multimediali"
+subtitle: "Immagini ad alta risoluzione, video, documenti e file audio possono essere allegati per la visualizzazione pubblica ad ogni contributo che si è creato."
 ---
 
-## Volevi fare qual'cos altro?
+## Ti sei perso?
 
-> **&#8629;Torniamo alla pagina** [**aggiungere un nuovo contributo**](add-new-contribution.html)
-
----
-
-## Che cosa può essere caricato?
-
-Per ogni contributo si può associare immagini, video e file audio.  Questi sono disponibili a tutti quelli che hanno il permesso di vedere il contributo.  Pero, soltanto la persona che ha creato il contributo o i moderatori possono associare i file multimediali ad un contributo.
-
-Questi file multimediali si possono aggiungere o quando stai creando un contributo o in un tempo successivo.  Si può anche rimuovere un file da un contributo.
+> **&#8629; Torna indietro e**[scopri come aggiungere i contributi**](add-new-contribution.html)
 
 ---
 
-## Come si fa?
+## Cosa può essere caricato?
 
-Seleziona uno o piu file multimediale o manualmente o trascinandoli nella zona calo.
+Ogni contributo può essere arricchito con foto, video, documenti e file audio. Possono essere visualizzati da chiunque abbia accesso alla mappa, ma solo il creatore del contributo e i moderatori della mappa possono aggiungere nuovi media.
 
-Prima che il file viene caricato, viene aggiunto ad una lista di file nuovi.  Si puo cambiare il nome del file, ed aggiungere una descrizione del contenuto.  I file possono essere caricati o uno ad uno o tutti insieme.
+È possibile caricare supporti aggiuntivi sia mentre si aggiunge un nuovo contributo, sia quando il contributo è già stato aggiunto al progetto. Inoltre, qualsiasi supporto può essere rimosso dal contributo.
 
-![Caricare i file multimediali](/images/it/uploading-media-files.png)
+---
+
+## Carichiamo!
+
+È possibile selezionare più file multimediali manualmente o trascinandoli e rilasciandoli nell'area annessa.
+
+Prima di essere caricato sui nostri server, il file viene aggiunto ad un elenco di nuovi file. È possibile modificare il nome di un file e aggiungere una descrizione opzionale. Ogni file può essere caricato singolarmente o in toto.
+
+Supportiamo i seguenti tipi di file:
+
+* ***Immagini***
+
+o	PNG
+
+o	JPEG
+
+* *** Video***
+
+o	MP4
+
+o	MKV
+
+* ***Documenti***
+
+o	PDF
+
+* *** File audio***
+
+o	MP3
+
+![File multimediali](/images/en/media-files.png)
 
 ### Immagini
 
-Le immagini caricati compaiano subito sulla lista di file multimediali.  Per vederli, clicca sul tab multimedia del contributo.
+Le immagini caricate appariranno immediatamente nell'elenco dei file multimediali. Possono essere visualizzate quando si accede alla scheda multimediale del contributo.
 
-![Una lista degli immagini congiunti ad un contributo](/images/it/list-of-pictures.png)
+![Caricare un file](/images/en/upload-a-file.png)
 
-Il contributore di un contributo, o il moderatore, possono rimuovere e cancellare le immagini.  Una volta cancellati, non sara possible ricuperare i file.
+Il realizzatore di un contributo o moderatore dell'intero progetto può cancellare le immagini caricate in qualsiasi momento. Una volta cancellate, le immagini non possono essere recuperate.
 
 ### Video
 
-Per i file video, ci vuole un po di tempo dopo per processarli.  Anche se sono elencati nella lista dei file multimediali di un contributo, si deve aspettare un po’ prima di accederli. .
+L'elaborazione dei video richiede tempo. Nonostante siano visibili nei video "generali", saranno caricati anche sul nostro account YouTube privato.
 
-### Audio
+### Documenti
 
-Si puo ascolare subito i file audio.  Pero, file *3gpp* and *3gpp2* saranno convertiti in formato *mp3* per renderli compatibili con i browser.
+I documenti *pdf* possono essere caricati e visualizzati immediatamente. Inoltre, è possibile scaricarli sul proprio computer.
+
+### File audio
+
+Tutti i file audio sono disponibili per la riproduzione immediata. Tuttavia, *3gpp* e *3gpp2* verranno convertiti in formato *mp3* grazie alla compatibilità del browser.
 
 ---
 
-## Il tutorial seguente:
+## Che succede ora?
 
-> **&#8627; Impariamo** [**come aggiungere i commenti ai contributi**](add-comments.html)
+> **&#8627; Impariamo** [**scopri come aggiungere commenti ai contributi**](add-comments.html)
