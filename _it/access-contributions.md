@@ -12,7 +12,7 @@ subtitle: "E'possibile accedere ai contributi in diversi modi: cliccandoli sulla
 
 ## Usa la mappa
 
-I contributi sono visibili sulla mappa sottoforma di [punto](overview-of-contributions.html#points), di [linea](overview-of-contributions.html#lines), o [area](overview-of-contributions.html#areas). Ognuna di queste forme è un collegamento ipertestuale al contributo.
+I contributi sono visibili sulla mappa sottoforma di [punto](overview-of-contributions.html#punti), di [linea](overview-of-contributions.html#linee), o [area](overview-of-contributions.html#aree). Ognuna di queste forme è un collegamento ipertestuale al contributo.
 
 ![Come utilizzare la mappa](/images/en/how-to-use-the-map.png)
 

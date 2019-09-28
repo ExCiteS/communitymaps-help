@@ -18,7 +18,7 @@ I contributi vengono aggiunti dai collaboratori di un progetto. Se le impostazio
 
 ## Come si presentano?
 
-I contributi aggiunti possono essere visibili sulla mappa: o sottoforma di [un'area](#areas), una [linea](#lines), o un semplice [punto](#points).
+I contributi aggiunti possono essere visibili sulla mappa: o sottoforma di [un'area](#aree), una [linea](#linee), o un semplice [punto](#punti).
 
 ### Punti
 

@@ -20,7 +20,7 @@ Se le impostazioni del progetto lo consentono, ogni persona che vi accede può d
 
 ### Primo step: Disegnare una forma
 
-Il primo passo è quello di cliccare sul pulsante "Aggiungi contributo" e iniziare a disegnare la forma sulla mappa: può essere un [punto](#points), una [linea](#lines), o un'[area](#areas) - quello che meglio rappresenta l'informazione aggiunta al momento. Per ogni contributo può essere disegnata una sola forma.
+Il primo passo è quello di cliccare sul pulsante "Aggiungi contributo" e iniziare a disegnare la forma sulla mappa: può essere un [punto](#punti), una [linea](#linee), o un'[area](#aree) - quello che meglio rappresenta l'informazione aggiunta al momento. Per ogni contributo può essere disegnata una sola forma.
 
 Per ottenere la posizione corretta per il tuo contributo, ingrandisci la mappa il più possibile.
 
