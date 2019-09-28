@@ -34,7 +34,7 @@ Puoi anche filtrare i contributi per visualizzare quelli che sono attivi, in rev
 
 È inoltre possibile utilizzare le sottocategorie per facilitare la ricerca di contributi più specifici sulla mappa. Una volta selezionata la sottocategoria pertinente a ciò che si sta cercando, compariranno sulla mappa.
 
-! [Sottocategorie](/images/en/subcategories.png)
+![Sottocategorie](/images/en/subcategories.png)
 
 ---
 
