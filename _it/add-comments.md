@@ -5,7 +5,7 @@ subtitle: "Ogni contributo può essere analizzato utilizzando la sessione intern
 ---
 
 ## Ti sei perso?
-> **&#8629; Torna indietro e** [scopri come caricare i file multimediali**](upload-media-files.html)
+> **&#8629; Torna indietro e** [**scopri come caricare i file multimediali**](upload-media-files.html)
 
 ---
 
@@ -33,4 +33,4 @@ Quando un contributo non funziona, chiunque può informare gli amministratori e 
 
 ## E adesso che succede?
 
-> **&#8627; Impariamo** [**come gestire i contributi***](manage-contributions.html)
+> **&#8627; Impariamo** [**come gestire i contributi**](manage-contributions.html)

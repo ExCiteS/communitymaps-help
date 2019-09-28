@@ -6,7 +6,7 @@ subtitle: "Una volta che un contributo viene aggiunto al progetto, i contributi 
 
 ## Ti sei perso?
 
-> **&#8629; Torna indietro e** [***scopri come aggiungere i commenti**](add-comments.html)
+> **&#8629; Torna indietro e** [**scopri come aggiungere i commenti**](add-comments.html)
 
 ---
 

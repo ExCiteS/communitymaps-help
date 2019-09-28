@@ -6,7 +6,7 @@ subtitle: "Immagini ad alta risoluzione, video, documenti e file audio possono e
 
 ## Ti sei perso?
 
-> **&#8629; Torna indietro e**[scopri come aggiungere i contributi**](add-new-contribution.html)
+> **&#8629; Torna indietro e** [**scopri come aggiungere i contributi**](add-new-contribution.html)
 
 ---
 
@@ -32,7 +32,7 @@ o	PNG
 
 o	JPEG
 
-* *** Video***
+* ***Video***
 
 o	MP4
 
@@ -42,7 +42,7 @@ o	MKV
 
 o	PDF
 
-* *** File audio***
+* ***File audio***
 
 o	MP3
 
