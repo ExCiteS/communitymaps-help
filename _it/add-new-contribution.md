@@ -1,76 +1,76 @@
 ---
 layout: italian
-title: "Aggiungere un nuovo contributo"
-subtitle: "Per aggiungere un nuovo contributo ci sono tre fasi: disegnare la forma, selezionare una categoria, completare la scheda."
+title: "Aggiungi nuovi contributi"
+subtitle: "Sono tre i passaggi per aggiungere un nuovo contributo: disegnare una forma, scegliere una categoria e compilare un modulo."
 ---
 
-## Volevi fare qual'cos altro?
+## Ti sei perso?
 
-> **&#8629;Torniamo alla pagina**
- [**scoprire come visualizzare i contributi**](access-contributions.html)
+> **&#8629; Torna indietro e** [**trova come accedere ai contributi**](access-contributions.html)
 
 ---
 
-## Posso aggiungere un contribuo?
+## Posso dare il mio contributo?
 
-Di solito, se e permesso dalle impostazioni di un progetto, tutti possono contribuire. Pero gli amministratori possono anche scegliere di permettere contributi soltanto da utenti nominati.
+Se le impostazioni del progetto lo consentono, ogni persona che vi accede può diventare un collaboratore. In alcuni casi gli amministratori di un progetto possono limitarsi a fornire il proprio contributo agli utenti registrati o solo ad alcuni utenti specifici.
 
 ---
 
 ## Contribuiamo!
 
-### Fase 1: Disegnando la forma
+### Primo step: Disegnare una forma
 
-La prima cosa da fare quando si aggiunge un nuovo contributo e di disegnarne la forma sulla mappa:  può essere un [punto](#points), una [linea](#lines) o un’[area (poligono)](#areas) - selezioni la forma che meglio raprezenta il contributo.  E possibile disegnare soltanto una forma per ogni contributo.
+Il primo passo è quello di cliccare sul pulsante "Aggiungi contributo" e iniziare a disegnare la forma sulla mappa: può essere un [punto](#points), una [linea](#lines), o un'[area](#areas) - quello che meglio rappresenta l'informazione aggiunta al momento. Per ogni contributo può essere disegnata una sola forma.
 
-La forma può anche essere cambiata successivamente, quando il contributo e già stato aggiunto al progetto.
+Per ottenere la posizione corretta per il tuo contributo, ingrandisci la mappa il più possibile.
+
+![Disegna una forma](/images/en/draw-a-shape.png)
+
+Le forme disegnate sulla mappa **possono** essere cambiate e modificate una volta che un contributo è stato aggiunto al progetto.
+
 #### Punti
 
-Si usano i punti per rappresentare locali o cose piccoli - per esempio una fermata autobus o un monumento.  Si piazzano con un singolo clic del mouse sulla mappa.
+I punti sono utilizzati per la rappresentazione di singoli elementi, come fermate degli autobus o monumenti. Sono collocabili con un semplice click del mouse in qualsiasi punto della mappa.
 
-![Piazzando un punto sulla mappa](/images/it/placing-a-point.png)
+![Un punto](/images/en/a-point.png)
 
 #### Linee
 
-Si usano le linee per rappresentare i percorsi, le strade, i muri etc.  Per creare una linea clicca sulla mappa per create una serie di punti che rappresenta la linea, finendo con un clic sull’ultimo punto.  I punti verranno connessi dal sistema per creare la linea.
+Le linee vengono utilizzate per la rappresentazione di percorsi, strade, ecc... Vengono disegnate aggiungendo dei punti accanto al percorso e terminano con un clic del mouse sull'ultimo punto. I punti sono collegati automaticamente tra loro in modo da formare un'unica linea.
 
-![Piazzando una linea sulla mappa](/images/it/drawing-a-line.png)
+![Una linea](/images/en/a-line.png)
 
-#### Forme/area/poligoni
+#### Aree
 
-Si usano le area per rappresentare oggetti più grandi - per esempio edifici, parche, zone, distretti, laghi. Per creare un area, clicca sulla mappa per aggiungere una serie di punti, cliccando ancora sul primo punto per finire.  I punti verranno connessi dal sistema per creare l’area, che poi verra colorato.
+Le aree sono utilizzate per la rappresentazione di elementi più grandi come edifici, parchi, laghi. Vengono disegnati aggiungendo dei punti intorno ad un oggetto e completati con un clic del mouse sul primo punto. Questi ultimi vengono collegati automaticamente e l'oggetto viene riempito con un colore per formare un'area.
 
-![Piazzando un area sulla mappa](/images/it/drawing-an-area.png)
+![Un'area](/images/en/an-area.png)
 
-### Fase 2: Scegliendo una categoria
+### Secondo step: Scegliere una categoria
 
-Sappiamo già che ogni contributo e associato ad una categoria, e quindi per la seconda fase si deve sceglierne una per il nuovo contributo.  La lista delle categorie elenca ogni categoria che si può usare per il progetto, e per ogni categoria quanti caselli ci sono da riempire nel modulo corrispondente.
+Dal momento che ogni contributo appartiene ad una categoria, il passo successivo è quello di sceglierne una per il nuovo contributo. L'elenco delle categorie mostra tutte le categorie attive che possono essere utilizzate e quanti campi contiene ciascuna di esse.
 
-![Sciegliendo una categoria per il nuovo contributo](/images/it/contributing-choosing-a-category.png)
+![Lista delle categorie](/images/en/categories-list.png)
 
-Quando selezioni una categoria, tutti i caselli diventano visibili sul modulo..
+Quando viene selezionata una categoria, tutti i campi di quella categoria vengono caricati nel modulo.
 
-Nota che **non si può cambiare la categoria** di un contributo.
+Si ricorda che la categoria scelta **non può*** essere modificata una volta che il contributo è stato aggiunto al progetto, ma i dettagli possono essere modificati in qualsiasi momento.
 
-### Fase 3: Completando il modulo
+### Terzo step: Compilare il modulo
 
-Per quest’ultima fase, si deve compilare il modulo..
+Nell'ultimo passaggio dev'essere compilato un modulo.
 
-E possibile lasciare vuoto le caselle obbligatorie soltanto se il contributo e in stato di bozza.  In altri casi, ci sarà un messaggio errore e le caselle in cui manca l’informazione verranno evidenziate..
+Ci possono essere diversi campi in un modulo a seconda del progetto: campo di testo, campo numerico, di ricerca singola e di ricerca multipla, campi inerenti alla data e all'ora. Le informazioni appropriate devono essere fornite per i campi 'obbligatori', altrimenti verrà mostrata una notifica e il campo evidenziato.
 
-![Caselle obbligatorie](/images/it/contributing-required-fields.png)
+![Compilazione del modulo](/images/en/filling-in-form.png)
+![Data di compilazione](/images/en/filling-in-date.png)
 
-Ci sono diversi tipi di caselle in un modulo: testo, numero, lista (selezionare una voce), lista (selezionare più voci), data e tempo.  Soltanto l’informazione del tipo richiesto dev’essere compilato nella casella, altrimenti ci sarà messaggio errore e la casella verrà evidenziata.
+Gli utenti anonimi possono solo aggiungere contributi al progetto, ma gli utenti registrati possono salvare i nuovi contributi come bozza e modificarli successivamente. Le bozze di contributi possono essere completate e aggiunte al progetto in un secondo momento.
 
-![Caselle con errore](/images/it/contributing-invalid-fields.png)
-
-Anche se l'impostazione di un progetto consente agli utenti anonimi di contributire i data, questi non possono salvare i data in stato di bozza - quello lo possono fare solo gli utenti registrati e loggati.  Contributi in stato di bozza possono essere completati in un tempo seguente.
-
-Si può aggiungere i file multimediali al contributo o a questo punto o in seguito, quando il contributo e già stato aggiunto al progetto.
+I file multimediali **possono** essere aggiunti durante il processo di inserimento o quando il contributo è stato aggiunto al progetto ma, gli utenti devono essere registrati per aggiungere i supporti - questo ci aiuta a garantire che i file inappropriati non vengano caricati.
 
 ---
 
-## Il tutorial seguente:
+## Il prossimo passo?
 
-> **&#8627; Impariamo**
- [**come aggiungere i file multimediali ai contributi**](upload-media-files.html)
+> **&#8627; Impariamo**[**come caricare i file multimediali ai contributi**](upload-media-files.html)

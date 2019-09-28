@@ -1,47 +1,47 @@
 ---
 layout: italian
-title: "Gestire i contributi"
-subtitle: "I contributi possono essere modificati anche Once added to the project, contribution can still be edited later on."
+title: "Gestire contributi"
+subtitle: "Una volta che un contributo viene aggiunto al progetto, i contributi possono essere modificati in un secondo momento."
 ---
 
-## Volevi fare qual'cos altro?
+## Ti sei perso?
 
-> **&#8629;Torniamo alla pagina** [**aggiungere i commenti**](add-comments.html)
-
----
-
-## Modificare un contributo
-
-Puoi modificare i tuoi contributi (o tutti i contributi di un progetto, se sei un moderatore) quando volete.
-
-![Nuovo contributo](/images/it/added-contribution.png)
-
-Quando fai una modifica, si può cambiare la forma di un contributo, spostarlo in qualche altro luogo, cambiare, aggiungere o rimuovere i data.  La categoria del contributo non può essere cambiata.
+> **&#8629; Torna indietro e** [***scopri come aggiungere i commenti**](add-comments.html)
 
 ---
 
-## Rimuovere un contributo
+## Modificare contributo
 
-Puoi anche rimuovere i tuoi contributi.
+È possibile modificare i propri contributi (o tutti i contributi, se si è un moderatore del progetto), in qualsiasi momento.
 
-![Messaggio conferma  - rimuovere un contributo](/images/it/delete-contribution-confirmation.png)
+![Modificare contributo](/images/en/edit-contribution.png)
 
-Una volta rimossa un contributo, non si può tornare in dietro.  Sono rimossi anche i file multimediali ed i commenti del contributo.
-
----
-
-## Rimuovere i file multimediali
-
-Tutti i file multimediali (immagini, video, audio) possono essere rimossi dalla persona che a creato il contributo, o dal moderatore del progetto.
+Quando si modifica un contributo, è possibile modificarne la forma sulla mappa, spostarne la posizione e aggiungere o rimuovere tutte le informazioni di testo. La categoria selezionata non può essere cambiata e rimarrà sempre la stessa.
 
 ---
 
-## Rimuovere i commenti
+## Cancellare contributi
 
-Puoi rimuovere i tuoi commenti da qualunque contributo, e puoi anche rimuovere qualunque commento dai tuoi contributi.  Commenti per cui e stato fatto una segnalazione non possono essere rimossi fino a che la segnalazione non e stato risolto.
+È disponibile anche la cancellazione dei contributi personali.
+
+![Cancella contributo](/images/en/delete-contribution.png)
+
+Una volta cancellati, i contributi **non possono** essere recuperati. Tutti i file multimediali e i commenti associati a ciascun contributo verranno cancellati.
 
 ---
 
-## Il tutorial seguente:
+## Cancellare file multimediali
+
+Ogni file multimediale aggiunto può essere cancellato dal creatore di un contributo, o dal moderatore dell'intero progetto.
+
+---
+
+## Cancellare commenti
+
+Ogni commento può essere cancellato. È possibile eliminare i commenti personali da qualsiasi contributo. I commenti che presentano relazioni nella propria gerarchia non possono essere cancellati fino a che il problema non verrà risolto.
+
+---
+
+## Che succede ora?
 
 > **&#8627; Impariamo** [**come moderare i contributi**](moderate-contributions.html)
