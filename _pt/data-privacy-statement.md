@@ -57,7 +57,7 @@ De acordo com o [Regulamento Geral de Proteção de Dados](https://eur-lex.europ
 Para obter mais informações sobre cada um desses direitos, inclusive as circunstâncias em que se aplicam, consulte o [Regulamento Geral de Proteção de Dados](https://protecao-dados.pt/o-regulamento/).
 
 Se necessitar de exercer algum desses direitos, por favor:
-- envie email (info @ mappingforchange.org.uk), ou escreva para nós
+- envie email [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk), ou escreva para nós
 - deve-nos dar informações suficientes para o identificar
 - Deve apresentar uma prova da sua identidade e endereço (uma cópia da sua carta de condução ou passaporte e uma conta recente de serviços públicos ou de cartão de crédito), e
 - informe-nos sobre as informações relacionadas com o seu pedido.
@@ -84,7 +84,7 @@ Mantemos o nosso aviso de privacidade sob revisão regular. Este aviso de privac
 
 ## Como entrar em contato conosco
 
-Se quiser solicitar informações sobre a nossa política de privacidade, envie-nos um e-mail (info @ mappingforchange.org.uk) ou escreva para:
+Se quiser solicitar informações sobre a nossa política de privacidade, envie-nos um e-mail [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk) ou escreva para:
 Mapping for Change CIC. Mildmay Community Centre. Woodville Road. London. N16 8NA
 
 ## Mapping for Change CIC - Agenda de retenção

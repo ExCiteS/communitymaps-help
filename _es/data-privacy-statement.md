@@ -54,7 +54,7 @@ Bajo el [Reglamento General de Protección de datos](https://eur-lex.europa.eu/l
 Para más información acerca de estos derechos, incluyendo bajo qué circunstancias se ejercitan, puedes consultar la [web de la Agencia Española de Protección de Datos](https://www.aepd.es/reglamento/derechos/index.html#anchor5).
 
 Si quieres ejercer cualquier de estos derechos, por favor:
-- envíanos un correo (info @ mappingforchange.org.uk) o una carta
+- envíanos un correo [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk) o una carta
 - facilitando suficiente información para que podamos identificarte,
 aportando una prueba de tu identidad y tu dirección (puedes enviar una copia de tu DNI, pasaporte, carné de conducir y una factura reciente) e
 - indicando a qué información se refiere tu solicitud.

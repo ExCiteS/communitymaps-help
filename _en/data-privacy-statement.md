@@ -57,7 +57,7 @@ Under the [General Data Protection Regulation](http://eur-lex.europa.eu/legal-co
 For further information on each of those rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner's Office (ICO) on individuals rights under the General Data Protection Regulation](http://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
 
 If you would like to exercise any of those rights, please:
-- email (info @ mappingforchange.org.uk), or write to us
+- email [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk), or write to us
 - let us have enough information to identify you
 - let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill), and
 - let us know the information to which your request relates.
@@ -84,7 +84,7 @@ We keep our privacy notice under regular review. This privacy notice was last up
 
 ## How to contact us
 
-If you want to request information about our privacy policy you can email us (info @ mappingforchange.org.uk) or write to:
+If you want to request information about our privacy policy you can email us [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk) or write to:
 Mapping for Change CIC. Mildmay Community Centre. Woodville Road. London. N16 8NA
 
 ## Mapping for Change CIC retention periods

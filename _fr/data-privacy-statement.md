@@ -58,7 +58,7 @@ Sous le [Règlement Général sur la Protection des Données de l’Union Europ�
 Pour plus d’information sur chacun de ces droits, y compris les circonstances dans lesquelles ces droits s’appliquent, veuillez vous référer au [Guide du Règlement Européen sur la Protection des Données du CNIL](https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles) (Commission Nationale de l’Information et des Libertés).
 
 Si vous souhaitez exercer l’un de ces droits, veuillez :
-- Nous envoyer un e-mail (info @ mappingforchange.org.uk) ou nous écrire
+- Nous envoyer un e-mail [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk) ou nous écrire
 - Nous laisser suffisamment d’information pour que vous puissions vous identifier
 - Inclure une pièce d’identité ainsi qu’un justificatif de domicile (copie de votre CNI ou passeport en vigueur / relevé de compte bancaire ou facture)
 - Indiquer les informations concernées par votre requête

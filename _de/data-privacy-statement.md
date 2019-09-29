@@ -57,7 +57,7 @@ Nach der [Datenschutz-Grundverordnung (DSGVO)](https://eur-lex.europa.eu/legal-c
 Weitere Informationen zu jedem dieser Rechte, einschließlich der Umstände, unter denen sie gelten, finden Sie im [Überblick über Ihre Rechte vom Bundesbeauftragten für den Datenschutz und die Informationsfreiheit](https://www.bfdi.bund.de/DE/Datenschutz/Ueberblick/MeineRechte/MeineRechte_node.html).
 
 Wenn Sie eines Ihrer Rechte ausüben möchten:
-- Schreiben Sie uns via E-Mail (info @ mappingforchange.org.uk) oder über den Postweg
+- Schreiben Sie uns via E-Mail [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk) oder über den Postweg
 - Geben Sie uns genügend Informationen, um Sie zu identifizieren
 - Lassen Sie uns einen Nachweis über Ihre Identität und Adresse zukommen (eine Kopie Ihres Führerscheins oder Reisepasses und eine aktuelle Stromrechnung oder Kreditkartenabrechnung), und
 - Teilen Sie uns mit, worauf sich Ihre Anfrage bezieht.

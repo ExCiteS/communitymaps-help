@@ -56,7 +56,7 @@ In base al [Regolamento Generale sulla Protezione dei Dati](https://eur-lex.euro
 Per ulteriori informazioni su ciascuno di tali diritti, incluse le circostanze in cui si applicano, consultare la [Guida all'applicazione del Regolamento europeo in materia di protezione dei dati personali](https://www.garanteprivacy.it/web/guest/regolamentoue/diritti-degli-interessati).
 
 Se vuoi esercitare uno di questi diritti, ti preghiamo di:
-- inviarci una email (info @ mappingforchange.org.uk), o di scriverci
+- inviarci una email [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk), o di scriverci
 - fornirci abbastanza informazioni per identificarti
 - darci prova della tua identità ed indirizzo (una copia della tua patente di guida o passaporto ed una bolletta recente o un estratto conto di una carta di credito), e
 - fornirci le informazioni relative alle tue richieste.
