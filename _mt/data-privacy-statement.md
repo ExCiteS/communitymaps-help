@@ -90,4 +90,14 @@ Mildmay Community Centre
 Woodville Road
 N16 8NA
 
+## Mapping for Change CIC - Perjodu taż-Żamma tal-Informazzjoni
+
+| Sors | Żmien | Azzjoni Meħtieġa Minnek | Azzjoni min-Naħa Tagħna | Ħsieb |
+| :--- | :---- | :---------------------- | :---------------------- | :---- |
+| Informazzjoni miġbura permezz ta’ Google Analytics |	36 xahar |	xejn - awtomatika |	Xejn |	biex tkun tista’ ssir analiżi tal-prestazzjoni tal-websajt |
+| Informazzjoni kkontribwita għall-Mapep tal-Komunità	| Indefinit |	l-utenti jistgħu jħassru l-kontribuzzjoni (ijiet) tagħhom stess	| tittieħed azzjoni għat-talba fi żmien 14-il jum |	biex il-mapep ikunu jistgħu jibqgħu ħajjin u utli |
+| Midja kkontribwita għall-Mapep tal-Komunità |	Indefinit	| talba għat-tħassir tal-midja |	tittieħed azzjoni għat-talba fi żmien 14-il jum |	biex il-kontribuzzjonijiet tal-mapep jiġu appoġġjati b'materjal addizzjonali biex jibqgħu ħajjin u utli |
+| Informazzjoni miġbura meta ssir ir-reġistrazzjoni għall-użu tal-Mapep tal-Komunità |	Indefinit	| talba għat-tħassir tal-kont | tittieħed azzjoni għat-talba fi żmien 14-il jum	| biex l-utenti jkunu jistgħu jkomplu jużaw il-mapep |
+| Informazzjoni miġbura meta tiffirma biex tirċievi aħbarijiet elettroniċi |	Indefinit	| talba għat-tneħħija mid-database |	tittieħed azzjoni għat-talba fi żmien 14-il jum |	biex il-korrispondenzi jkunu jistgħu jintbagħtu regolarment |
+
 Perjodi taż-Żamma tal-Informazzjoni tal-Mapping for Change CIC
