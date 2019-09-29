@@ -56,3 +56,5 @@ Jekk tagħżel li ma tiġix ittraċċat minn Google Analytics mill-websajts koll
 | | csrftoken | biex tgħin tipproteġi sit kontra tip partikolari ta’ attakk ta’ softwer fuq formoli tal-web. Dan huwa strettament meħtieġ. |
 | | sessionid | biex tidentifika b’mod anonimu s-sessjoni tiegħek. Dan huwa strettament meħtieġ. |
 | | messages | biex il-messaġġ tal-cookie jitħalla jidher hekk kif tuża l-websajts tagħna. |
+
+Din id-dikjarazzjoni tal-cookie ġiet aġġornata l-aħħar fil-21 ta ’Mejju 2018.
