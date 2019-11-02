@@ -1,5 +1,5 @@
 ---
-layout: Spanish
+layout: spanish
 title: "Descargo de responsabilidad"
 ---
 
