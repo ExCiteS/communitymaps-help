@@ -134,12 +134,14 @@
           </div>
         </div>
 
-        {% assign file = page.url | split: '/' | last %}
-        {% if file != 'index.html' and file != '404.html' %}
-          <a href="index.html" class="lead" style="text-decoration: none !important">
-            <span class="glyphicon glyphicon-arrow-left"></span>
-            <span>{% if layout.link_home == nil %}Home page{% else %}{{ layout.link_home }}{% endif %}</span>
-          </a>
+        {% if layout.link_home != nil %}
+          {% assign file = page.url | split: '/' | last %}
+          {% if file != 'index.html' and file != '404.html' %}
+            <a href="index.html" class="lead" style="text-decoration: none !important">
+              <span class="glyphicon glyphicon-arrow-left"></span>
+              <span>{{ layout.link_home }}</span>
+            </a>
+          {% endif %}
         {% endif %}
       </div>
     </header>
