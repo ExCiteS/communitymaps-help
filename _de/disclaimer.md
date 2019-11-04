@@ -1,6 +1,6 @@
 ---
 layout: german
-title: "Disclaimer"
+title: "Haftungsausschluss"
 ---
 
 Die Community Maps-Plattform wird Ihnen unter der Voraussetzung angeboten, dass Sie die hierin enthaltenen Nutzungsbedingungen und -Hinweisen ohne Änderung akzeptieren. Mit der Nutzung der Community Maps-Plattform erklären Sie sich mit allen diesen Bedingungen und Hinweisen einverstanden. Verwenden Sie diese Plattform bitte nicht, wenn Sie mit den Nutzungsbedingungen nicht einverstanden sind. Mapping for Change behält sich das Recht vor, die Bedingungen und Hinweise, unter denen die Community Maps-Plattform angeboten wird, zu ändern. Du stimmst zu, dass die Nutzung von Community Maps auf eigene Gefahr erfolgt. Mapping for Change und seine Mitarbeiter lehnen alle Gewährleistungen im Zusammenhang mit der Community Maps-Plattform und deren Nutzung ab.
