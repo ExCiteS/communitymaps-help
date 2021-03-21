@@ -46,10 +46,10 @@ Vi er ikke ansvarlige for noget tab eller en skade, der er forårsaget af et dis
 Du accepterer også:
 - Ikke at reproducere, duplikere, kopiere eller videresælge en del af vores websted i modstrid med bestemmelserne i vores brugsvilkår.
 - Ikke at tilgå uden bemyndigelse, forstyrre, skade eller afbryde:
-    * En del af vores websted,
-    * Udstyr eller netværk, hvorpå vores websted er lagret,
-    * Software, der anvendes til levering af vores websted, eller
-    * Udstyr eller netværk eller software, der ejes eller benyttes af en tredjemand.
+  * En del af vores websted,
+  * Udstyr eller netværk, hvorpå vores websted er lagret,
+  * Software, der anvendes til levering af vores websted, eller
+  * Udstyr eller netværk eller software, der ejes eller benyttes af en tredjemand.
 
 Vi hilser bidrag til vores kort velkommen fra alle medlemmer i offentligheden, men du skal overholde følgende standarder for alle materialer, som du bidrager med til vores websted (i det følgende ”Bidrag”), og til alle dermed forbundne interaktive tjenester. Du skal overholde såvel ånd som bogstav i følgende standarder. Standarderne gælder for alle dele af et Bidrag samt for hele Bidraget. Vi har retten til at videregive din identitet til tredjemand, som påstår, at materiale, der af dig er oprettet eller indsendt til vores websted, udgør en overtrædelse af deres immaterielle rettigheder eller deres ret til privatlivets fred.
 
