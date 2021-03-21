@@ -1,98 +1,100 @@
 ---
 layout: danish
-title: "Erklæring om databeskyttelse"
+title: "Meddelelse om databeskyttelse"
 ---
 
-We ask that you read this privacy notice carefully as it contains important information on who we are, how and why we collect, store, use and share personal information, your rights in relation to your personal information and on how to contact us and supervisory authorities if you have a complaint.
+Vi beder dig om at læse denne meddelelse om databeskyttelse omhyggeligt, da den indeholder vigtige oplysninger om, hvem vi er, hvordan og hvorfor vi indsamler, lagrer, anvender og deler personoplysninger, dine rettigheder hvad angår dine personoplysninger, og hvordan du kan kontakte os og tilsynsmyndigheder, hvis du har en klage.
 
-## Who we are
+## Hvem er vi
 
-Mapping for Change CIC ("We") collects, uses and is responsible for certain personal information about you. When we do so we are regulated under the General Data Protection Regulation which applies across the European Union (including in the United Kingdom) and we are responsible as 'controller' of that personal information for the purposes of those laws.
+Mapping for Change CIC (”vi”) indsamler, anvender og er ansvarlig for visse personoplysninger om dig. Når vi gør det, er vi genstand for den Generelle Forordning om Databeskyttelse, der gælder i den Europæiske Union (herunder i Storbritannien), og vi er ansvarlige som ’dataansvarlig’ for personoplysningerne hvad angår disse love.
 
-## The personal information we collect and use
+## De personoplysninger, vi indsamler og anvender
 
-To register you as a user of Community Maps, we collect the following personal information when you provide it to us:
-- Your name
-- Your postcode
-- Your email address
-- Your telephone number(s)
+For at registrere dig som bruger af Community Maps indsamler vi følgende personoplysninger, når du giver dem til os:
+- Dit navn
+- Dit postnummer
+- Din e-mailadresse
+- Dit telefonnummer eller telefonnumre
 
-We want to provide you with the best user experience when using our site so collect certain technical information, including, where available, your IP address; operating system; and browser type, for system administration and monitoring purposes. This is statistical data about our users' browsing actions and patterns, and does not identify any individual, nor will we make any attempt to find out the identities of those visiting our websites.
+Vi ønsker at give dig den bedste brugeroplevelse, når du bruger vores websted, så vi indsamler visse tekniske oplysninger, herunder eventuelt, din IP-adresse, operativsystem og browsertype til administration af systemet og overvågningsmæssige formål. Dette er statistiske data om vores brugeres handlinger og mønstre på browseren, og de identificerer ikke en enkeltperson, og vi gør heller ikke forsøg på at finde frem til identiteten på de personer, der besøger vores websteder.
 
-## How we use your personal information
+## Hvordan anvender vi dine personoplysninger
 
-We will use your personal data to:
-- Verify your identity and validate your Community Maps registration.
-- To enable you to log-in and access or contribute to Community Maps.
-- To ensure that you receive feedback and responses to matters that you have raised.
-- To ensure that content from our site is presented in the most effective manner for you and for your computer.
-- To provide you with information or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-- To allow you to participate in interactive features of our service, when you choose to do so.
-- To notify you about changes to our service.
+Vi bruger dine personoplysninger til:
+- At verificere din identitet og validere din tilmelding til Community Maps.
+- At give dig mulighed for at logge på og tilgå eller bidrage til Community Maps.
+- At sikre, at du modtager feedback og svar på forhold, du er fremkommet med.
+- At sikre, at indholdet fra vores websted præsenteres på den mest effektive måde for dig og din computer.
+- At give dig oplysninger eller tjenester, som du anmoder os om, eller som vi mener kan interessere dig, hvis du har samtykket i at blive kontaktet med sådanne formål.
+- For at tillade dig at deltage i interaktive funktioner af vores tjeneste, når du vælger at gøre dette.
+- At oplyse dig om ændringer i vores tjeneste.
 
-## Who we share your personal information with
+## Hvem deler vi dine personoplysninger med
 
-We will share personal information with law enforcement or other authorities if required by applicable law. We limit access to your personal information to third-party services for the operation of our service. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality.
+Vi deler dine personoplysninger med retshåndhævende eller andre myndigheder, hvis gældende lov kræver det. Vi begrænser adgangen til dine personoplysninger til tredjepartstjenester til driften af vores tjeneste. Dem, der behandler dine oplysninger, gør kun dette på bemyndiget vis og er underlagt en fortrolighedspligt.
 
-## How long your personal information will be kept
+## Hvor lang tid bliver dine personoplysninger opbevaret
 
-We will hold your personal data for the duration in which your Community Maps account is maintained.
+Vi opbevarer dine personoplysninger, så længe din konto hos Community Maps opretholdes.
 
-## Reasons we can collect and use your personal information
+## Årsager til, at vi kan indsamle og anvende dine personoplysninger
 
-When you register as a user of Community Maps, we seek your consent to the processing of your data as outlined above.  We rely on this consent as the lawful basis on which we collect and use your personal data.
+Når du tilmelder dig som bruger af Community Maps, søger vi dit samtykke til behandlingen af dine oplysninger som anført ovenfor.  Vi er afhængige af dette samtykke som det retlige grundlag, hvorpå vi indsamler og bruger dine personoplysninger.
 
-## Your rights
+## Dine rettigheder
 
-Under the [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) you have a number of important rights free of charge. In summary, those include rights to:
-- access to your personal information and to certain other supplementary information that this Privacy Notice is already designed to address
-- require us to correct any mistakes in your information which we hold
-- require the erasure of personal information concerning you in certain situations
-- receive the personal information concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations
-- object at any time to processing of personal information concerning you for direct marketing
-- object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you
-- object in certain other situations to our continued processing of your personal information
-- otherwise restrict our processing of your personal information in certain circumstances
+I henhold til [Den Generelle Forordning om Databeskyttelse](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) har du et antal væsentlige, gratis rettigheder. Som opsummering indeholder disse rettigheder til:
+- Indsigt i dine personoplysninger og i visse andre supplerende oplysninger, som denne meddelelse om databeskyttelse allerede er beregnet på at tage sig af
+- At anmode os om at rette eventuelle fejl i dine oplysninger, som vi har
+- I bestemte situationer at anmode om sletning af personoplysninger vedrørende dig
+- At modtage personoplysninger om dig, som du har givet os, i et struktureret, almindeligt anvendt og maskinlæsbart format og have retten til i visse situationer at overføre disse oplysninger til en tredjemand
+- Til enhver tid at gøre indsigelse mod behandling af personoplysninger angående dig til direkte markedsføring
+- Gøre indsigelse mod, at der træffes automatiske afgørelser, som medfører juridisk påvirkning vedrørende dig eller på tilsvarende vis påvirker dig
+- Gøre indsigelse i visse andre situationer over for vores fortsatte behandling af dine personoplysninger
+- I øvrigt begrænse vores behandling af dine personoplysninger under visse omstændigheder
 
-For further information on each of those rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner's Office (ICO) on individuals rights under the General Data Protection Regulation](http://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
+For yderligere oplysninger om hver af disse rettigheder, herunder de omstændigheder, hvorunder de gælder, henvises til [Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the General Data Protection Regulation](http://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
 
-If you would like to exercise any of those rights, please:
-- email [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk), or write to us
-- let us have enough information to identify you
-- let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill), and
-- let us know the information to which your request relates.
+Hvis du ønsker at udøve nogen af disse rettigheder, bedes du:
+- Sende en e-mail ([info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk)) eller skrive til os
+- og give os tilstrækkeligt med oplysninger, så vi kan identificere dig
+- og give os bevis for din identitet og adresse (en kopi af dit kørekort eller pas og en nyere faktura for el eller kreditkort) samt
+- lade os vide, hvilke oplysninger din anmodning vedrører.
 
-You can find out if we hold any personal information about you by making a 'subject access request' under the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+Du kan finde ud af, om vi har personoplysninger om dig ved at foretage en ’subject access request’ i henhold til den engelske databeskyttelseslov fra 1998. En sådan anmodning kan være genstand for et gebyr på GBP 10 for at dække vores omkostninger ved at give dig detaljer om de oplysninger, vi har om dig.
 
-## Keeping your personal information secure
+## Sikker opbevaring af dine personoplysninger
 
-We have appropriate security measures in place to prevent personal information from being accidentally lost, used or accessed in an unauthorised way. We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
+Vi har passende sikkerhedsforanstaltninger på plads for at forhindre, at personoplysninger ved et tilfælde mistes, anvendes eller tilgås på en uautoriseret måde. Vi har ligeledes procedurer på plads for at håndtere mistanke om et brud på datasikkerheden. Vi giver dig og en gældende regulerende myndighed meddelelse om mistanke om et brud på datasikkerheden, hvis vi efter loven har pligt dertil.
 
-## Where we store your personal data
+## Hvor vi opbevarer dine personoplysninger
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our third-party service providers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+De oplysninger, som vi indsamler fra dig, kan blive overført til og opbevaret på en destination uden for Det Europæiske Økonomiske Samarbejdsområde (”EØS”). De kan også blive behandlet af personale, der arbejder uden for EØS, som arbejder for os eller en af vores leverandører af tredjepartstjenester. Ved at fremsende dine personoplysninger accepterer du denne overførsel, opbevaring eller behandling. Vi vil tage alle rimeligt nødvendige skridt for at sikre, at dine oplysninger behandles sikkert og i overensstemmelse med denne datapolitik.
 
-Where you have chosen a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. Do not share your password with anyone and do not use a password that you have already used to access other websites or services.
+Hvis du har valgt et kodeord, der gør dig i stand til at tilgå visse dele af vores websted, er du ansvarlig for at holde dette kodeord hemmeligt. Du må ikke dele dit kodeord med andre, og du må ikke anvende et kodeord, som du allerede har brugt til at tilgå andre websteder eller tjenester.
 
 ## Cookies
 
-Our websites use cookies to distinguish you from other users or visitors. This helps us to provide you with a good experience when you browse our sites and also allows us to improve our sites. For detailed information on the cookies we use and the purposes for which we use them please read our [cookie policy](http://help.communitymaps.org.uk/en/cookie-policy.html).
+Vores websteder anvender cookies for at kende forskel på dig og andre brugere eller besøgende.	 Dette hjælper os med at give dig en god oplevelse, når du browser på vores websteder, og gør det også muligt for os at forbedre vores websteder. For detaljerede oplysninger om de cookies, vi anvender, og de formål, vi anvender dem til, bedes du læse vores [cookiepolitik](http://help.communitymaps.org.uk/da/cookie-policy.html).
 
-## Changes to this privacy notice
+## Ændringer i denne meddelelse om databeskyttelse
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 26th March 2019
+Vi gennemgår med jævne mellemrum vores meddelelse om databeskyttelse. Denne meddelelse om databeskyttelse er senest opdateret den 26. marts 2019
 
-## How to contact us
+## Sådan kontakter du os
 
-If you want to request information about our privacy policy you can email us [info@mappingforchange.org.uk](mailto:info@mappingforchange.org.uk) or write to:
+Hvis du vil anmode om oplysninger om vores datapolitik, kan du sende os en [e-mail](mailto:info@mappingforchange.org.uk) eller skrive til:
 Mapping for Change CIC. Mildmay Community Centre. Woodville Road. London. N16 8NA
 
-## Mapping for Change CIC retention periods
+## Mapping for Change CIC’s opbevaringsperioder
 
-| Source | Time | Action required by you | Our action | Rationale |
+| Kilde | Tid | Handling, der kræves af dig | Vores handling | Baggrund |
 | :----- | :--- | :--------------------- | :--------- | :-------- |
-| Information collected through Google Analytics |	36 months |	none - automatic |	none |	to enable analysis of website performance |
-| Information contributed to Community Maps	| indefinitely |	users can delete their own contribution(s)	| request actioned within 14 days |	to enable maps to stay live and useful |
-| Media contributed to Community Maps |	indefinitely	| request deletion of media |	request actioned within 14 days |	to enable map contributions to be supported with additional material to stay live and useful |
-| Information collected on registering to use Community Maps |	indefinitely	| request deletion of account | request actioned within 14 days	| to enable users to continue to use the maps |
-| Information collected when signing up to receive e-news |	indefinitely	| request removal from database |	request actioned within 14 days |	to enable communications to be sent regularly |
+| Oplysninger indsamlet via Google Analytics | 36 måneder |	Ingen - automatisk |	Ingen |	At muliggøre analyse af webstedets præstation |
+| Oplysninger bidraget til Community Maps	| På ubestemt tid |	Brugere kan slette egne bidrag | Anmode om handling inden for 14 dage |	For at holde kortene i live og nyttige |
+| Medier, der har bidraget til Community Maps |	På ubestemt tid	| Anmode om sletning af medier | Anmode om handling inden for 14 dage |
+Anmode om handling inden for 14 dage
+For at muliggøre, at kortbidrag bliver supporteret med yderligere materiale, så de forbliver i live og nyttige |
+| Oplysninger indsamlet om tilmelding til at anvende Community Maps |	På ubestemt tid	| Anmode om sletning af konto | Anmode om handling inden for 14 dage | At sætte brugerne i stand til at anvende kortene |
+| Oplysninger indsamlet ved tilmelding til at modtage e-nyheder |	På ubestemt tid	| Anmode om fjernelse fra databasen |	Anmode om handling inden for 14 dage |	For at gøre det muligt, at kommunikation sendes regelmæssigt |
