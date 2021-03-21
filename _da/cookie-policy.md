@@ -42,7 +42,7 @@ Hvis indstillingerne af din software, som du benytter til at se vores websteder 
 
 De fleste web-browsere tillader nogen kontrol for de fleste cookies via browserens indstillinger. For at finde ud af mere om cookies, herunder hvordan man ser, hvilke cookies er indstillet, og hvordan man administrerer og sletter dem, så besøg [aboutcookies.org](www.aboutcookies.org) eller [allaboutcookies.org](www.allaboutcookies.org).
 
-For at fravælge at blive sporet af Google Analytics på tværs af alle websteder, besøg http://tools.google.com/dlpage/gaoptout.
+For at fravælge at blive sporet af Google Analytics på tværs af alle websteder, besøg [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
 ## Cookies på vores websteder
 
