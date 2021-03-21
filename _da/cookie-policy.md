@@ -3,56 +3,56 @@ layout: danish
 title: "Cookiepolitik"
 ---
 
-Our websites use cookies, as almost all websites do, to help provide you with the best experience we can.
+Vores websteder anvender cookies, hvilket næsten alle websteder gør, for at være med til at give dig den bedste oplevelse, vi kan.
 
-## What are cookies?
+## Hvad er cookies?
 
-Cookies are small text files that are automatically placed on your computer or mobile device when you visit almost any website. They are stored by your internet browser. Cookies contain basic information about your internet use, but they do not normally identify you personally. Your browser sends these cookies back to the site every time you revisit it, so it can recognise your computer or mobile device and personalise it accordingly to improve your site experience.
+Cookies er små tekstfiler, der automatisk placeres på din computer eller mobile enhed, når du besøger næsten alle websider. De lagres på din internet-browser. Cookies indeholder grundlæggende informationer om din brug af internettet, men de identificerer dig normalt ikke personligt. Din browser sender disse cookies tilbage til webstedet, hver gang du besøger det igen, så det kan genkende din computer eller mobile enhed og tilpasse dem for at forbedre din oplevelse på webstedet.
 
-## Which cookies do we use?
+## Hvilke cookies anvender vi?
 
-We use some cookies which are necessary to help you access and move around our sites and use all its features. Without these cookies, our websites would not work properly and you would not be able to use certain important features. We also use cookies to help us understand how our website is being used and how we can improve your experience on it. This provides us with anonymous information to help us understand which parts of our site are of most interest to our visitors and monitor how our visitors reach us.
+Vi anvender nogle cookies, der er nødvendige for at hjælpe dig med at tilgå og bevæge dig rundt på vores websteder og anvende alle funktionerne. Uden disse cookies ville vores websteder ikke fungere ordentligt, og du ville ikke være i stand til at bruge nogle væsentlige funktioner. Vi anvender også cookies til at hjælpe os med at forstå, hvordan vores websted bruges, og hvordan vi kan forbedre din oplevelse på det. Dette giver os anonyme oplysninger, der gør os bedre til at forstå, hvilke dele af vores websted er af størst interesse for vores besøgende, og overvåge, hvordan vores besøgende kommer frem til os.
 
-Our cookies help us:
-- Make our websites work as you'd expect
-- Save you having to login every time you visit the sites or individual pages
-- Remember your settings during and between visits
-- Improve the speed/security of the sites
-- Allow you to share pages with social networks like Facebook
-- Continuously improve our websites for you
-- Make our marketing more efficient
+Vores cookies hjælper os med at:
+- Få vores websteder til at fungere, som du vil forvente det
+- Du kan slippe for at logge på, hver gang du besøger webstederne eller særskilte sider
+- Huske dine indstillinger under og mellem besøg
+- Forbedre hastighed og sikkerhed på webstederne
+- Tillade dig at dele sider med sociale netværk såsom Facebook
+- Til stadighed forbedre vores websteder for dig
+- Gøre vores markedsføring mere effektiv
 
-We do not use cookies to:
-- Collect any personally identifiable information (without your express permission)
-- Collect any sensitive information (without your express permission)
-- Pass data to advertising networks
-- Pass personally identifiable data to third parties
-- Pay sales commissions
+Vi anvender ikke cookies til at:
+- Indsamle personidentificerbare oplysninger (uden din udtrykkelige tilladelse)
+- Indsamle følsomme oplysninger (uden din udtrykkelige tilladelse)
+- Videregive data til reklamenetværk
+- Videregive personidentificerbare data til tredjemand
+- Betale salgsprovision
 
-We use cookies to make our website work including:
-- Determining if you are logged in or not
-- Remembering your search settings
-- Allowing you to add comments to our site
+Vi anvender cookies for at få vores websted til at fungere, herunder:
+- At afgøre, om du er logget på eller ej
+- At huske dine søgeindstillinger
+- At tillade, at du tilføjer kommentarer til vores websted
 
-## Your consent
+## Dit samtykke
 
-If the settings on your software that you are using to view our websites (your browser) are adjusted to accept cookies we take this, and your continued use of our websites, as your consent. Should you wish to remove or not use cookies from our websites you can learn how to do this below, however doing so will likely mean that our websites will not work as you would expect.
+Hvis indstillingerne af din software, som du benytter til at se vores websteder (din browser), er tilpasset til at acceptere cookies, antager vi dette og din fortsatte brug af vores websteder som dit samtykke. Hvis du ønsker at fjerne eller ikke bruge cookies fra vores websteder, kan du se, hvordan det skal gøres nedenfor. Dog vil det formentlig betyde, at vores websteder ikke fungerer, som du forventer.
 
-## How do I change my cookie settings?
+## Hvordan ændrer jeg min indstilling for cookies?
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [aboutcookies.org](www.aboutcookies.org) or [allaboutcookies.org](www.allaboutcookies.org).
+De fleste web-browsere tillader nogen kontrol for de fleste cookies via browserens indstillinger. For at finde ud af mere om cookies, herunder hvordan man ser, hvilke cookies er indstillet, og hvordan man administrerer og sletter dem, så besøg [aboutcookies.org](www.aboutcookies.org) eller [allaboutcookies.org](www.allaboutcookies.org).
 
-To opt out of being tracked by Google Analytics across all websites visit [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout).
+For at fravælge at blive sporet af Google Analytics på tværs af alle websteder, besøg http://tools.google.com/dlpage/gaoptout.
 
-## Cookies on our websites
+## Cookies på vores websteder
 
-| Domain | Cookie name | Purpose |
+| Domæne | Navn på cookien | Formål |
 | :----- | :---------- | :------ |
-| Google.com | \_ga, \_gid, \_gat, NID | We use Google Analytics to help analyse how you user our websites in order to improve our service. In addition, we use cookies to remember your preferences, such as your preferred language. Google provides an opt-out tool to disable cookies. |
-| | CONSENT | To allow the cookie message to appear as you use our websites. |
-| | 1P_JAR | To gather website statistics and track conversion rates. |
-| Adobe.com | s_vi | Enables Adobe to open PDFs from our websites. |
-| Geokey.org.uk | djdt | To remove bugs from the website. It is strictly necessary. |
-| | csrftoken | To help protect a site against a particular type of software attack on web forms. It is strictly necessary. |
-| | sessionid | To anonymously identify your session. It is strictly necessary. |
-| | messages | To enable the cookie message to appear as you use our websites. |
+| Google.com | \_ga, \_gid, \_gat, NID | Vi benytter  Google Analytics for at hjælpe med til at analysere, hvordan du bruger vores websteder for at forbedre vores tjeneste. Desuden anvender vi cookies til at huske dine præferencer, såsom dit foretrukne sprog. Google har et  værktøj til fravalg  for at deaktivere cookies |
+| | CONSENT | For at tillade, at cookie-beskeden vises, når du bruger vores websteder |
+| | 1P_JAR | For at indsamle statistik om webstedet og spore konverteringsfaktorer. |
+| Adobe.com | s_vi | Gør Adobe i stand til at åbne pdf-filer fra vores websteder |
+| Geokey.org.uk | djdt | For at fjerne fejl fra webstedet. Den er absolut nødvendig |
+| | csrftoken | For at være med til at beskytte et websted mod en særlig type softwareangreb på webformularer. Den er absolut nødvendig. |
+| | sessionid | For anonymt at identificere din session. Den er absolut nødvendig |
+| | messages | For at gøre det muligt, at cookie-meddelelser vises, når du bruger vores websteder |
