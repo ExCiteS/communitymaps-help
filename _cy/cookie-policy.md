@@ -43,7 +43,7 @@ Os yw'r gosodiadau ar eich meddalwedd rydych chi'n eu defnyddio i weld ein gwefa
 
 ## Sut mae newid fy ngosodiadau cwci?
 
-Mae’r rhan fwyaf o borwyr y we yn gadael i chi gael rhywfaint o reolaeth o’r rhan fwyaf o gwcis trwy osodiadau’r porwr. I gael gwybod mwy am gwcis, gan gynnwys sut i weld pa gwcis sydd wedi'u gosod a sut i'w rheoli a'u dileu, ewch i www.aboutcookies.org neu [allaboutcookies.org](www.allaboutcookies.org).
+Mae’r rhan fwyaf o borwyr y we yn gadael i chi gael rhywfaint o reolaeth o’r rhan fwyaf o gwcis trwy osodiadau’r porwr. I gael gwybod mwy am gwcis, gan gynnwys sut i weld pa gwcis sydd wedi'u gosod a sut i'w rheoli a'u dileu, ewch i [aboutcookies.org](www.aboutcookies.org) neu [allaboutcookies.org](www.allaboutcookies.org).
 
 I optio allan o gael eich olrhain gan Google Analytics ar draws pob gwefan ewch i http://tools.google.com/dlpage/gaoptout.
 
@@ -59,5 +59,3 @@ I optio allan o gael eich olrhain gan Google Analytics ar draws pob gwefan ewch 
 |               | csrftoken               | I helpu diogelu safle yn erbyn math penodol o ymosodiad meddalwedd ar ffurflenni gwe. Mae'n gwbl angenrheidiol.                                                                                                                                                               |
 |               | sessionid               | I adnabod eich sesiwn yn ddienw. Mae'n gwbl angenrheidiol                                                                                                                                                                                                                     |
 |               | messages                | I alluogi'r neges cwci ymddangos wrth i chi ddefnyddio ein gwefannau                                                                                                                                                                                                          |
-
-Diweddarwyd y datganiad cwci hwn ddiwethaf ar 21 Mai 2018
