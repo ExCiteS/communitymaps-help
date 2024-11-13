@@ -5,6 +5,8 @@ collections:
     output: true
   ca:
     output: true
+  cy:
+    output: true
   da:
     output: true
   de:
