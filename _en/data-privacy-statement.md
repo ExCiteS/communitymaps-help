@@ -91,7 +91,7 @@ Mapping for Change CIC. Mildmay Community Centre. Woodville Road. London. N16 8N
 
 | Source | Time | Action required by you | Our action | Rationale |
 | :----- | :--- | :--------------------- | :--------- | :-------- |
-| Information collected through Google Analytics |	36 months |	none - automatic |	none |	to enable analysis of website performance |
+| Information collected through Google Analytics |	26 months |	none - automatic |	none |	to enable analysis of website performance |
 | Information contributed to Community Maps	| indefinitely |	users can delete their own contribution(s)	| request actioned within 14 days |	to enable maps to stay live and useful |
 | Media contributed to Community Maps |	indefinitely	| request deletion of media |	request actioned within 14 days |	to enable map contributions to be supported with additional material to stay live and useful |
 | Information collected on registering to use Community Maps |	indefinitely	| request deletion of account | request actioned within 14 days	| to enable users to continue to use the maps |
